@@ -93,7 +93,7 @@ from sklearn.model_selection import train_test_split
 X = three_year_team_data[['PER', 'TS%', '3PAr', 'FTr', 'ORB%', 'AST%', 'TOV%']]
 y = three_year_team_data['W']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33)
 
 regr = linear_model.LinearRegression()
 
