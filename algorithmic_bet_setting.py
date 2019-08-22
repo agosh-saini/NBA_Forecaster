@@ -86,7 +86,7 @@ three_year_team_data = three_year_team_data.dropna()
 Multiple Linear Regressin
 In the paper they assume/prove it was linear hence I will go with that assumpyion 
 '''
-
+'''
 from sklearn import linear_model
 from sklearn.model_selection import train_test_split
 
@@ -115,5 +115,5 @@ print('RMSE: ', sqrt(mean_squared_error(y_test, y_pred)))
 
 print('Intercept: \n', regr.intercept_)
 print('Coefficients: \n', regr.coef_)
-
+'''
 
