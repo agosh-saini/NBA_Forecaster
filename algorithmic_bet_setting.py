@@ -93,18 +93,25 @@ game_data_16_17 = game_diff_data(tm_stats_16_17, games_2016_17, abr).dropna()
 #2017-18 Season Data Pre-Proce
 dataset_2017_18 = pd.read_csv(r'Stats\2017-18.csv', skipinitialspace=True)
 wins_2017_18 = pd.read_csv(r'Stats\wins_2017-18.csv', skipinitialspace=True)
+games_2017_18 = pd.read_csv(r'Stats\2017-18_games.csv', skipinitialspace=True)
 
 y2017_18 = clean_data(dataset_2017_18, 5)
       
 tm_stats_17_18 = tm_stats(y2017_18, abr, name, wins_2017_18).dropna()
 
+game_data_17_18 = game_diff_data(tm_stats_17_18, games_2017_18, abr).dropna()
+
 #2018-19 Season Data Pre-Processing
 dataset_2018_19 = pd.read_csv(r'Stats\2018-19.csv', skipinitialspace=True)
 wins_2018_19 = pd.read_csv(r'Stats\wins_2018-19.csv', skipinitialspace=True)
+games_2018_19 = pd.read_csv(r'Stats\2018-19_games.csv', skipinitialspace=True)
 
 y2018_19 = clean_data(dataset_2018_19, 5)
       
 tm_stats_18_19 = tm_stats(y2018_19, abr, name, wins_2018_19).dropna()
 
+game_data_18_19 = game_diff_data(tm_stats_18_19, games_2018_19, abr).dropna()
 
+#Combining all game_data_[YEAR] datasets
+three_year_game_data = pd.concat([game_data_16_17, game_data_17_18, game_data_18_19]).dropna()
 
