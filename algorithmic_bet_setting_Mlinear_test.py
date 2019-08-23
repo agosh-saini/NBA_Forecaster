@@ -138,29 +138,16 @@ regr = linear_model.LinearRegression()
 model = regr.fit(X_train, y_train)
 y_pred = regr.predict(X_test)
 
+'''Creating a logistic function'''
+
 import matplotlib.pyplot as plt
+from math import exp
 
-plt.scatter(y_test, y_pred)
-plt.xlabel('True Values')
-plt.ylabel('Predictions')
+coeffs = regr.coef_
+X_test_log = pd.unique(X_test)
 
-print('Model Score: ', model.score(X_test, y_test))
-
-from sklearn.metrics import mean_squared_error
-from math import sqrt
-
-plt.scatter(y_test, y_pred)
-plt.xlabel('True Values')
-plt.ylabel('Predictions')
+e = X_test_log.dot(coeffs)
+ 
 
 
-print('RMSE: ', sqrt(mean_squared_error(y_test, y_pred)))
 
-print('Intercept: \n', regr.intercept_)
-print('Coefficients: \n', regr.coef_)
-
-'''Saving Model'''
-
-import pickle
-
-pickle.dump(model, open('Stats\generated_files\Multiple_Linear_Reg.sav', 'wb'))
