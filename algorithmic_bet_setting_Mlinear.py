@@ -159,6 +159,10 @@ print('RMSE: ', sqrt(mean_squared_error(y_test, y_pred)))
 print('Intercept: \n', regr.intercept_)
 print('Coefficients: \n', regr.coef_)
 
+df = pd.DataFrame({'Y_Pred': y_pred, 'Y_Test': y_test})
+
+df.to_csv(r'Stats\generated_files\y_pred_test.csv')
+
 '''Saving Model'''
 
 import pickle
