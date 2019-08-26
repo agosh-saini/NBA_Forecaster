@@ -35,4 +35,3 @@ def safe_bet():
     print("You should bet " + str(higherBet) + " On the Team with HIgher odds and rest on the other.")
     
 safe_bet()
-risky_bet()

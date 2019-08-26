@@ -1,11 +1,14 @@
 # -*- coding: utf-8 -*-
 '''
-Created on Sun Aug 18 19:57:37 2019
+Created on Aug 25 2019
 
 @author: Agosh Saini (as7saini@edu.uwaterloo.ca)
 
 paper this file is based on: 
 https://library.ndsu.edu/ir/bitstream/handle/10365/28084/Predicting%20Outcomes%20of%20NBA%20Basketball%20Games.pdf
+
+PCA:
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 
 Stats from:
 https://www.basketball-reference.com
@@ -129,48 +132,72 @@ three_year_tm_stats.to_csv(r'Stats\generated_files\three_year_tm_data.csv')
 
 '''Multiple Linear Regression Section'''
 
-from sklearn import linear_model
+from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
 
 X = three_year_game_data[['PER', 'TS%', '3PAr', 'FTr', 'ORB%', 'AST%', 'TOV%']]
-y = three_year_game_data['PT']
+y = three_year_game_data['W/L']
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+pca = PCA(n_components=2)
 
-regr = linear_model.LinearRegression()
+principalComponents = pca.fit_transform(X)
 
-model = regr.fit(X_train, y_train)
-y_pred = regr.predict(X_test)
+principalDf = pd.DataFrame(data = principalComponents
+             , columns = ['principal component 1', 'principal component 2'])
 
-import matplotlib.pyplot as plt
+print('PCA Explained Variance Ratio: ', pca.explained_variance_ratio_)
 
-plt.scatter(y_test, y_pred)
-plt.xlabel('True Values')
-plt.ylabel('Predictions')
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
 
-print('Model Score: ', model.score(X_test, y_test))
+X_train, X_test, y_train, y_test = train_test_split(principalDf, y, test_size=0.33)
 
-from sklearn.metrics import mean_squared_error
-from math import sqrt
+scaler.fit(X_train)
+X_train = scaler.transform(X_train)
+X_test = scaler.transform(X_test)
 
-plt.scatter(y_test, y_pred)
-plt.xlabel('True Values')
-plt.ylabel('Predictions')
+from sklearn.decomposition import PCA
 
+pca = PCA(.95)
 
-print('RMSE: ', sqrt(mean_squared_error(y_test, y_pred)))
+pca.fit(X_train)
 
-print('Intercept: \n', regr.intercept_)
-print('Coefficients: \n', regr.coef_)
+X_train = pca.transform(X_train)
+X_test = pca.transform(X_test)
+
+from sklearn.linear_model import LogisticRegression
+
+logisticRegr = LogisticRegression(solver = 'lbfgs')
+
+model = logisticRegr.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
+import matplotlib.pyplot as plt  
+
+cm = confusion_matrix(y_test, y_pred)
+
+ax= plt.subplot()
+sns.heatmap(cm, annot=True, ax = ax); #annot=True to annotate cells
+
+# labels, title and ticks
+ax.set_xlabel('Predicted labels');ax.set_ylabel('True labels'); 
+ax.set_title('Confusion Matrix'); 
+ax.xaxis.set_ticklabels(['L', 'W']); ax.yaxis.set_ticklabels(['L', 'W']);
+
+print('Confusion Matrix: ', cm)
+print('Model Score: ',model.score(X_test, y_test))
 
 df = pd.DataFrame({'Y_Pred': y_pred, 'Y_Test': y_test})
 
-df.to_csv(r'Stats\generated_files\y_pred_test.csv')
+df.to_csv(r'Stats\generated_files\y_pred_test_PCA.csv')
 
 '''Saving Model'''
 
 import pickle
 
-pickle.dump(model, open('Stats\generated_files\Multiple_Linear_Reg.sav', 'wb'))
+pickle.dump(model, open('Stats\generated_files\PCA_model.sav', 'wb'))
 
 
