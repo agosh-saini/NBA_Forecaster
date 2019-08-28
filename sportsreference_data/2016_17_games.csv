@@ -1,0 +1,1106 @@
+,boxscore,away_name,away_abbr,away_score,home_name,home_abbr,home_score,winning_name,winning_abbr,losing_name,losing_abbr
+0,201610250CLE,New York,NYK,88,Cleveland,CLE,117,Cleveland,CLE,New York,NYK
+1,201610250GSW,San Antonio,SAS,129,Golden State,GSW,100,San Antonio,SAS,Golden State,GSW
+2,201610260BOS,Brooklyn,BRK,117,Boston,BOS,122,Boston,BOS,Brooklyn,BRK
+3,201610260IND,Dallas,DAL,121,Indiana,IND,130,Indiana,IND,Dallas,DAL
+4,201610260LAL,Houston,HOU,114,LA Lakers,LAL,120,LA Lakers,LAL,Houston,HOU
+5,201610260MEM,Minnesota,MIN,98,Memphis,MEM,102,Memphis,MEM,Minnesota,MIN
+6,201610260MIL,Charlotte,CHO,107,Milwaukee,MIL,96,Charlotte,CHO,Milwaukee,MIL
+7,201610260NOP,Denver,DEN,107,New Orleans,NOP,102,Denver,DEN,New Orleans,NOP
+8,201610260ORL,Miami,MIA,108,Orlando,ORL,96,Miami,MIA,Orlando,ORL
+9,201610260PHI,Oklahoma City,OKC,103,Philadelphia,PHI,97,Oklahoma City,OKC,Philadelphia,PHI
+10,201610260PHO,Sacramento,SAC,113,Phoenix,PHO,94,Sacramento,SAC,Phoenix,PHO
+11,201610270ATL,Washington,WAS,99,Atlanta,ATL,114,Atlanta,ATL,Washington,WAS
+12,201610270CHI,Boston,BOS,99,Chicago,CHI,105,Chicago,CHI,Boston,BOS
+13,201610270POR,LA Clippers,LAC,114,Portland,POR,106,LA Clippers,LAC,Portland,POR
+14,201610280BRK,Indiana,IND,94,Brooklyn,BRK,103,Brooklyn,BRK,Indiana,IND
+15,201610280DAL,Houston,HOU,106,Dallas,DAL,98,Houston,HOU,Dallas,DAL
+16,201610280DET,Orlando,ORL,82,Detroit,DET,108,Detroit,DET,Orlando,ORL
+17,201610280MIA,Charlotte,CHO,97,Miami,MIA,91,Charlotte,CHO,Miami,MIA
+18,201610280NOP,Golden State,GSW,122,New Orleans,NOP,114,Golden State,GSW,New Orleans,NOP
+19,201610280OKC,Phoenix,PHO,110,Oklahoma City,OKC,113,Oklahoma City,OKC,Phoenix,PHO
+20,201610280TOR,Cleveland,CLE,94,Toronto,TOR,91,Cleveland,CLE,Toronto,TOR
+21,201610290CHI,Indiana,IND,101,Chicago,CHI,118,Chicago,CHI,Indiana,IND
+22,201610290CHO,Boston,BOS,104,Charlotte,CHO,98,Boston,BOS,Charlotte,CHO
+23,201610290CLE,Orlando,ORL,99,Cleveland,CLE,105,Cleveland,CLE,Orlando,ORL
+24,201610290DEN,Portland,POR,115,Denver,DEN,113,Portland,POR,Denver,DEN
+25,201610290MIL,Brooklyn,BRK,108,Milwaukee,MIL,110,Milwaukee,MIL,Brooklyn,BRK
+26,201610290NYK,Memphis,MEM,104,New York,NYK,111,New York,NYK,Memphis,MEM
+27,201610290PHI,Atlanta,ATL,104,Philadelphia,PHI,72,Atlanta,ATL,Philadelphia,PHI
+28,201610290SAC,Minnesota,MIN,103,Sacramento,SAC,106,Sacramento,SAC,Minnesota,MIN
+29,201610300DET,Milwaukee,MIL,83,Detroit,DET,98,Detroit,DET,Milwaukee,MIL
+30,201610300HOU,Dallas,DAL,92,Houston,HOU,93,Houston,HOU,Dallas,DAL
+31,201610300LAC,Utah,UTA,75,LA Clippers,LAC,88,LA Clippers,LAC,Utah,UTA
+32,201610300MEM,Washington,WAS,103,Memphis,MEM,112,Memphis,MEM,Washington,WAS
+33,201610300MIA,San Antonio,SAS,106,Miami,MIA,99,San Antonio,SAS,Miami,MIA
+34,201610300OKC,LA Lakers,LAL,96,Oklahoma City,OKC,113,Oklahoma City,OKC,LA Lakers,LAL
+35,201610310ATL,Sacramento,SAC,95,Atlanta,ATL,106,Atlanta,ATL,Sacramento,SAC
+36,201610310BRK,Chicago,CHI,118,Brooklyn,BRK,88,Chicago,CHI,Brooklyn,BRK
+37,201610310LAC,Phoenix,PHO,98,LA Clippers,LAC,116,LA Clippers,LAC,Phoenix,PHO
+38,201611010CLE,Houston,HOU,120,Cleveland,CLE,128,Cleveland,CLE,Houston,HOU
+39,201611010DET,New York,NYK,89,Detroit,DET,102,Detroit,DET,New York,NYK
+40,201611010IND,LA Lakers,LAL,108,Indiana,IND,115,Indiana,IND,LA Lakers,LAL
+41,201611010MIA,Sacramento,SAC,96,Miami,MIA,108,Miami,MIA,Sacramento,SAC
+42,201611010MIN,Memphis,MEM,80,Minnesota,MIN,116,Minnesota,MIN,Memphis,MEM
+43,201611010NOP,Milwaukee,MIL,117,New Orleans,NOP,113,Milwaukee,MIL,New Orleans,NOP
+44,201611010PHI,Orlando,ORL,103,Philadelphia,PHI,101,Orlando,ORL,Philadelphia,PHI
+45,201611010POR,Golden State,GSW,127,Portland,POR,104,Golden State,GSW,Portland,POR
+46,201611020ATL,LA Lakers,LAL,123,Atlanta,ATL,116,LA Lakers,LAL,Atlanta,ATL
+47,201611020BOS,Chicago,CHI,100,Boston,BOS,107,Boston,BOS,Chicago,CHI
+48,201611020BRK,Detroit,DET,101,Brooklyn,BRK,109,Brooklyn,BRK,Detroit,DET
+49,201611020CHO,Philadelphia,PHI,93,Charlotte,CHO,109,Charlotte,CHO,Philadelphia,PHI
+50,201611020LAC,Oklahoma City,OKC,85,LA Clippers,LAC,83,Oklahoma City,OKC,LA Clippers,LAC
+51,201611020MEM,New Orleans,NOP,83,Memphis,MEM,89,Memphis,MEM,New Orleans,NOP
+52,201611020NYK,Houston,HOU,118,New York,NYK,99,Houston,HOU,New York,NYK
+53,201611020PHO,Portland,POR,115,Phoenix,PHO,118,Phoenix,PHO,Portland,POR
+54,201611020UTA,Dallas,DAL,81,Utah,UTA,97,Utah,UTA,Dallas,DAL
+55,201611030CLE,Boston,BOS,122,Cleveland,CLE,128,Cleveland,CLE,Boston,BOS
+56,201611030GSW,Oklahoma City,OKC,96,Golden State,GSW,122,Golden State,GSW,Oklahoma City,OKC
+57,201611030MIL,Indiana,IND,107,Milwaukee,MIL,125,Milwaukee,MIL,Indiana,IND
+58,201611030MIN,Denver,DEN,102,Minnesota,MIN,99,Denver,DEN,Minnesota,MIN
+59,201611040BRK,Charlotte,CHO,99,Brooklyn,BRK,95,Charlotte,CHO,Brooklyn,BRK
+60,201611040CHI,New York,NYK,117,Chicago,CHI,104,New York,NYK,Chicago,CHI
+61,201611040DAL,Portland,POR,105,Dallas,DAL,95,Portland,POR,Dallas,DAL
+62,201611040LAL,Golden State,GSW,97,LA Lakers,LAL,117,LA Lakers,LAL,Golden State,GSW
+63,201611040MEM,LA Clippers,LAC,99,Memphis,MEM,88,LA Clippers,LAC,Memphis,MEM
+64,201611040NOP,Phoenix,PHO,112,New Orleans,NOP,111,Phoenix,PHO,New Orleans,NOP
+65,201611040TOR,Miami,MIA,87,Toronto,TOR,96,Toronto,TOR,Miami,MIA
+66,201611040UTA,San Antonio,SAS,100,Utah,UTA,86,San Antonio,SAS,Utah,UTA
+67,201611050ATL,Houston,HOU,97,Atlanta,ATL,112,Atlanta,ATL,Houston,HOU
+68,201611050DET,Denver,DEN,86,Detroit,DET,103,Detroit,DET,Denver,DEN
+69,201611050IND,Chicago,CHI,94,Indiana,IND,111,Indiana,IND,Chicago,CHI
+70,201611050MIL,Sacramento,SAC,91,Milwaukee,MIL,117,Milwaukee,MIL,Sacramento,SAC
+71,201611050OKC,Minnesota,MIN,92,Oklahoma City,OKC,112,Oklahoma City,OKC,Minnesota,MIN
+72,201611050ORL,Washington,WAS,86,Orlando,ORL,88,Orlando,ORL,Washington,WAS
+73,201611050PHI,Cleveland,CLE,102,Philadelphia,PHI,101,Cleveland,CLE,Philadelphia,PHI
+74,201611060BOS,Denver,DEN,123,Boston,BOS,107,Denver,DEN,Boston,BOS
+75,201611060DAL,Milwaukee,MIL,75,Dallas,DAL,86,Dallas,DAL,Milwaukee,MIL
+76,201611060LAL,Phoenix,PHO,108,LA Lakers,LAL,119,LA Lakers,LAL,Phoenix,PHO
+77,201611060MEM,Portland,POR,100,Memphis,MEM,94,Portland,POR,Memphis,MEM
+78,201611060NYK,Utah,UTA,114,New York,NYK,109,Utah,UTA,New York,NYK
+79,201611070CHI,Orlando,ORL,80,Chicago,CHI,112,Chicago,CHI,Orlando,ORL
+80,201611070CHO,Indiana,IND,100,Charlotte,CHO,122,Charlotte,CHO,Indiana,IND
+81,201611070GSW,New Orleans,NOP,106,Golden State,GSW,116,Golden State,GSW,New Orleans,NOP
+82,201611070LAC,Detroit,DET,82,LA Clippers,LAC,114,LA Clippers,LAC,Detroit,DET
+83,201611070OKC,Miami,MIA,85,Oklahoma City,OKC,97,Oklahoma City,OKC,Miami,MIA
+84,201611070PHI,Utah,UTA,109,Philadelphia,PHI,84,Utah,UTA,Philadelphia,PHI
+85,201611080BRK,Minnesota,MIN,110,Brooklyn,BRK,119,Brooklyn,BRK,Minnesota,MIN
+86,201611080CLE,Atlanta,ATL,110,Cleveland,CLE,106,Atlanta,ATL,Cleveland,CLE
+87,201611080LAL,Dallas,DAL,109,LA Lakers,LAL,97,Dallas,DAL,LA Lakers,LAL
+88,201611080MEM,Denver,DEN,107,Memphis,MEM,108,Memphis,MEM,Denver,DEN
+89,201611080POR,Phoenix,PHO,121,Portland,POR,124,Portland,POR,Phoenix,PHO
+90,201611090ATL,Chicago,CHI,107,Atlanta,ATL,115,Atlanta,ATL,Chicago,CHI
+91,201611090CHO,Utah,UTA,98,Charlotte,CHO,104,Charlotte,CHO,Utah,UTA
+92,201611090GSW,Dallas,DAL,95,Golden State,GSW,116,Golden State,GSW,Dallas,DAL
+93,201611090IND,Philadelphia,PHI,115,Indiana,IND,122,Indiana,IND,Philadelphia,PHI
+94,201611090LAC,Portland,POR,80,LA Clippers,LAC,111,LA Clippers,LAC,Portland,POR
+95,201611090NYK,Brooklyn,BRK,96,New York,NYK,110,New York,NYK,Brooklyn,BRK
+96,201611090OKC,Toronto,TOR,112,Oklahoma City,OKC,102,Toronto,TOR,Oklahoma City,OKC
+97,201611090ORL,Minnesota,MIN,123,Orlando,ORL,107,Minnesota,MIN,Orlando,ORL
+98,201611090PHO,Detroit,DET,100,Phoenix,PHO,107,Phoenix,PHO,Detroit,DET
+99,201611090SAS,Houston,HOU,101,San Antonio,SAS,99,Houston,HOU,San Antonio,SAS
+100,201611100DEN,Golden State,GSW,125,Denver,DEN,101,Golden State,GSW,Denver,DEN
+101,201611100MIA,Chicago,CHI,98,Miami,MIA,95,Chicago,CHI,Miami,MIA
+102,201611100MIL,New Orleans,NOP,112,Milwaukee,MIL,106,New Orleans,NOP,Milwaukee,MIL
+103,201611110BOS,New York,NYK,87,Boston,BOS,115,Boston,BOS,New York,NYK
+104,201611110CHO,Toronto,TOR,113,Charlotte,CHO,111,Toronto,TOR,Charlotte,CHO
+105,201611110OKC,LA Clippers,LAC,110,Oklahoma City,OKC,108,LA Clippers,LAC,Oklahoma City,OKC
+106,201611110ORL,Utah,UTA,87,Orlando,ORL,74,Utah,UTA,Orlando,ORL
+107,201611110PHI,Indiana,IND,105,Philadelphia,PHI,109,Philadelphia,PHI,Indiana,IND
+108,201611110POR,Sacramento,SAC,120,Portland,POR,122,Portland,POR,Sacramento,SAC
+109,201611110SAS,Detroit,DET,86,San Antonio,SAS,96,San Antonio,SAS,Detroit,DET
+110,201611120ATL,Philadelphia,PHI,96,Atlanta,ATL,117,Atlanta,ATL,Philadelphia,PHI
+111,201611120CHI,Washington,WAS,95,Chicago,CHI,106,Chicago,CHI,Washington,WAS
+112,201611120DEN,Detroit,DET,106,Denver,DEN,95,Detroit,DET,Denver,DEN
+113,201611120HOU,San Antonio,SAS,106,Houston,HOU,100,San Antonio,SAS,Houston,HOU
+114,201611120IND,Boston,BOS,105,Indiana,IND,99,Boston,BOS,Indiana,IND
+115,201611120MIA,Utah,UTA,102,Miami,MIA,91,Utah,UTA,Miami,MIA
+116,201611120MIL,Memphis,MEM,96,Milwaukee,MIL,106,Milwaukee,MIL,Memphis,MEM
+117,201611120MIN,LA Clippers,LAC,119,Minnesota,MIN,105,LA Clippers,LAC,Minnesota,MIN
+118,201611120NOP,LA Lakers,LAL,126,New Orleans,NOP,99,LA Lakers,LAL,New Orleans,NOP
+119,201611120PHO,Brooklyn,BRK,122,Phoenix,PHO,104,Brooklyn,BRK,Phoenix,PHO
+120,201611130CLE,Charlotte,CHO,93,Cleveland,CLE,100,Cleveland,CLE,Charlotte,CHO
+121,201611130GSW,Phoenix,PHO,120,Golden State,GSW,133,Golden State,GSW,Phoenix,PHO
+122,201611130MIN,LA Lakers,LAL,99,Minnesota,MIN,125,Minnesota,MIN,LA Lakers,LAL
+123,201611130OKC,Orlando,ORL,119,Oklahoma City,OKC,117,Orlando,ORL,Oklahoma City,OKC
+124,201611140DET,Oklahoma City,OKC,88,Detroit,DET,104,Detroit,DET,Oklahoma City,OKC
+125,201611140HOU,Philadelphia,PHI,88,Houston,HOU,115,Houston,HOU,Philadelphia,PHI
+126,201611140IND,Orlando,ORL,69,Indiana,IND,88,Indiana,IND,Orlando,ORL
+127,201611140LAC,Brooklyn,BRK,95,LA Clippers,LAC,127,LA Clippers,LAC,Brooklyn,BRK
+128,201611140NOP,Boston,BOS,105,New Orleans,NOP,106,New Orleans,NOP,Boston,BOS
+129,201611140NYK,Dallas,DAL,77,New York,NYK,93,New York,NYK,Dallas,DAL
+130,201611140SAS,Miami,MIA,90,San Antonio,SAS,94,San Antonio,SAS,Miami,MIA
+131,201611150CLE,Toronto,TOR,117,Cleveland,CLE,121,Cleveland,CLE,Toronto,TOR
+132,201611150LAL,Brooklyn,BRK,118,LA Lakers,LAL,125,LA Lakers,LAL,Brooklyn,BRK
+133,201611150MIA,Atlanta,ATL,93,Miami,MIA,90,Atlanta,ATL,Miami,MIA
+134,201611150MIN,Charlotte,CHO,115,Minnesota,MIN,108,Charlotte,CHO,Minnesota,MIN
+135,201611160ATL,Milwaukee,MIL,100,Atlanta,ATL,107,Atlanta,ATL,Milwaukee,MIL
+136,201611160BOS,Dallas,DAL,83,Boston,BOS,90,Boston,BOS,Dallas,DAL
+137,201611160DEN,Phoenix,PHO,104,Denver,DEN,120,Denver,DEN,Phoenix,PHO
+138,201611160IND,Cleveland,CLE,93,Indiana,IND,103,Indiana,IND,Cleveland,CLE
+139,201611160LAC,Memphis,MEM,111,LA Clippers,LAC,107,Memphis,MEM,LA Clippers,LAC
+140,201611160NYK,Detroit,DET,102,New York,NYK,105,New York,NYK,Detroit,DET
+141,201611160OKC,Houston,HOU,103,Oklahoma City,OKC,105,Oklahoma City,OKC,Houston,HOU
+142,201611160ORL,New Orleans,NOP,82,Orlando,ORL,89,Orlando,ORL,New Orleans,NOP
+143,201611160PHI,Washington,WAS,102,Philadelphia,PHI,109,Philadelphia,PHI,Washington,WAS
+144,201611160SAC,San Antonio,SAS,110,Sacramento,SAC,105,San Antonio,SAS,Sacramento,SAC
+145,201611170HOU,Portland,POR,109,Houston,HOU,126,Houston,HOU,Portland,POR
+146,201611170MIA,Milwaukee,MIL,73,Miami,MIA,96,Miami,MIA,Milwaukee,MIL
+147,201611170MIN,Philadelphia,PHI,86,Minnesota,MIN,110,Minnesota,MIN,Philadelphia,PHI
+148,201611170UTA,Chicago,CHI,85,Utah,UTA,77,Chicago,CHI,Utah,UTA
+149,201611180BOS,Golden State,GSW,104,Boston,BOS,88,Golden State,GSW,Boston,BOS
+150,201611180CHO,Atlanta,ATL,96,Charlotte,CHO,100,Charlotte,CHO,Atlanta,ATL
+151,201611180CLE,Detroit,DET,81,Cleveland,CLE,104,Cleveland,CLE,Detroit,DET
+152,201611180DAL,Memphis,MEM,80,Dallas,DAL,64,Memphis,MEM,Dallas,DAL
+153,201611180DEN,Toronto,TOR,113,Denver,DEN,111,Toronto,TOR,Denver,DEN
+154,201611180IND,Phoenix,PHO,116,Indiana,IND,96,Phoenix,PHO,Indiana,IND
+155,201611180LAL,San Antonio,SAS,116,LA Lakers,LAL,107,San Antonio,SAS,LA Lakers,LAL
+156,201611180NOP,Portland,POR,101,New Orleans,NOP,113,New Orleans,NOP,Portland,POR
+157,201611180OKC,Brooklyn,BRK,105,Oklahoma City,OKC,124,Oklahoma City,OKC,Brooklyn,BRK
+158,201611190DET,Boston,BOS,94,Detroit,DET,92,Boston,BOS,Detroit,DET
+159,201611190HOU,Utah,UTA,102,Houston,HOU,111,Houston,HOU,Utah,UTA
+160,201611190LAC,Chicago,CHI,95,LA Clippers,LAC,102,LA Clippers,LAC,Chicago,CHI
+161,201611190MEM,Minnesota,MIN,71,Memphis,MEM,93,Memphis,MEM,Minnesota,MIN
+162,201611190MIL,Golden State,GSW,124,Milwaukee,MIL,121,Golden State,GSW,Milwaukee,MIL
+163,201611190NOP,Charlotte,CHO,116,New Orleans,NOP,121,New Orleans,NOP,Charlotte,CHO
+164,201611190ORL,Dallas,DAL,87,Orlando,ORL,95,Orlando,ORL,Dallas,DAL
+165,201611190PHI,Phoenix,PHO,105,Philadelphia,PHI,120,Philadelphia,PHI,Phoenix,PHO
+166,201611200BRK,Portland,POR,129,Brooklyn,BRK,109,Portland,POR,Brooklyn,BRK
+167,201611200DEN,Utah,UTA,91,Denver,DEN,105,Denver,DEN,Utah,UTA
+168,201611200LAL,Chicago,CHI,118,LA Lakers,LAL,110,Chicago,CHI,LA Lakers,LAL
+169,201611200NYK,Atlanta,ATL,94,New York,NYK,104,New York,NYK,Atlanta,ATL
+170,201611200OKC,Indiana,IND,115,Oklahoma City,OKC,111,Indiana,IND,Oklahoma City,OKC
+171,201611210CHO,Memphis,MEM,105,Charlotte,CHO,90,Memphis,MEM,Charlotte,CHO
+172,201611210DET,Houston,HOU,99,Detroit,DET,96,Houston,HOU,Detroit,DET
+173,201611210IND,Golden State,GSW,120,Indiana,IND,83,Golden State,GSW,Indiana,IND
+174,201611210LAC,Toronto,TOR,115,LA Clippers,LAC,123,LA Clippers,LAC,Toronto,TOR
+175,201611210MIL,Orlando,ORL,89,Milwaukee,MIL,93,Milwaukee,MIL,Orlando,ORL
+176,201611210MIN,Boston,BOS,99,Minnesota,MIN,93,Boston,BOS,Minnesota,MIN
+177,201611210PHI,Miami,MIA,94,Philadelphia,PHI,101,Philadelphia,PHI,Miami,MIA
+178,201611210SAS,Dallas,DAL,91,San Antonio,SAS,96,San Antonio,SAS,Dallas,DAL
+179,201611220ATL,New Orleans,NOP,112,Atlanta,ATL,94,New Orleans,NOP,Atlanta,ATL
+180,201611220DEN,Chicago,CHI,107,Denver,DEN,110,Denver,DEN,Chicago,CHI
+181,201611220LAL,Oklahoma City,OKC,109,LA Lakers,LAL,111,LA Lakers,LAL,Oklahoma City,OKC
+182,201611230BRK,Boston,BOS,111,Brooklyn,BRK,92,Boston,BOS,Brooklyn,BRK
+183,201611230CHO,San Antonio,SAS,119,Charlotte,CHO,114,San Antonio,SAS,Charlotte,CHO
+184,201611230CLE,Portland,POR,125,Cleveland,CLE,137,Cleveland,CLE,Portland,POR
+185,201611230DAL,LA Clippers,LAC,124,Dallas,DAL,104,LA Clippers,LAC,Dallas,DAL
+186,201611230DET,Miami,MIA,84,Detroit,DET,107,Detroit,DET,Miami,MIA
+187,201611230GSW,LA Lakers,LAL,106,Golden State,GSW,149,Golden State,GSW,LA Lakers,LAL
+188,201611230HOU,Toronto,TOR,115,Houston,HOU,102,Toronto,TOR,Houston,HOU
+189,201611230IND,Atlanta,ATL,96,Indiana,IND,85,Atlanta,ATL,Indiana,IND
+190,201611230NOP,Minnesota,MIN,96,New Orleans,NOP,117,New Orleans,NOP,Minnesota,MIN
+191,201611230ORL,Phoenix,PHO,92,Orlando,ORL,87,Phoenix,PHO,Orlando,ORL
+192,201611230PHI,Memphis,MEM,104,Philadelphia,PHI,99,Memphis,MEM,Philadelphia,PHI
+193,201611230SAC,Oklahoma City,OKC,101,Sacramento,SAC,116,Sacramento,SAC,Oklahoma City,OKC
+194,201611250BOS,San Antonio,SAS,109,Boston,BOS,103,San Antonio,SAS,Boston,BOS
+195,201611250CLE,Dallas,DAL,90,Cleveland,CLE,128,Cleveland,CLE,Dallas,DAL
+196,201611250DEN,Oklahoma City,OKC,132,Denver,DEN,129,Oklahoma City,OKC,Denver,DEN
+197,201611250DET,LA Clippers,LAC,97,Detroit,DET,108,Detroit,DET,LA Clippers,LAC
+198,201611250IND,Brooklyn,BRK,97,Indiana,IND,118,Indiana,IND,Brooklyn,BRK
+199,201611250LAL,Golden State,GSW,109,LA Lakers,LAL,85,Golden State,GSW,LA Lakers,LAL
+200,201611250MEM,Miami,MIA,90,Memphis,MEM,81,Miami,MIA,Memphis,MEM
+201,201611250MIL,Toronto,TOR,105,Milwaukee,MIL,99,Toronto,TOR,Milwaukee,MIL
+202,201611250NYK,Charlotte,CHO,111,New York,NYK,113,New York,NYK,Charlotte,CHO
+203,201611250ORL,Washington,WAS,94,Orlando,ORL,91,Washington,WAS,Orlando,ORL
+204,201611250PHI,Chicago,CHI,105,Philadelphia,PHI,89,Chicago,CHI,Philadelphia,PHI
+205,201611250PHO,Minnesota,MIN,98,Phoenix,PHO,85,Minnesota,MIN,Phoenix,PHO
+206,201611250POR,New Orleans,NOP,104,Portland,POR,119,Portland,POR,New Orleans,NOP
+207,201611250SAC,Houston,HOU,117,Sacramento,SAC,104,Houston,HOU,Sacramento,SAC
+208,201611260CHO,New York,NYK,102,Charlotte,CHO,107,Charlotte,CHO,New York,NYK
+209,201611260GSW,Minnesota,MIN,102,Golden State,GSW,115,Golden State,GSW,Minnesota,MIN
+210,201611260MIA,Memphis,MEM,110,Miami,MIA,107,Memphis,MEM,Miami,MIA
+211,201611260OKC,Detroit,DET,88,Oklahoma City,OKC,106,Oklahoma City,OKC,Detroit,DET
+212,201611270BRK,Sacramento,SAC,122,Brooklyn,BRK,105,Sacramento,SAC,Brooklyn,BRK
+213,201611270DAL,New Orleans,NOP,81,Dallas,DAL,91,Dallas,DAL,New Orleans,NOP
+214,201611270IND,LA Clippers,LAC,70,Indiana,IND,91,Indiana,IND,LA Clippers,LAC
+215,201611270LAL,Atlanta,ATL,94,LA Lakers,LAL,109,LA Lakers,LAL,Atlanta,ATL
+216,201611270ORL,Milwaukee,MIL,104,Orlando,ORL,96,Milwaukee,MIL,Orlando,ORL
+217,201611270PHI,Cleveland,CLE,112,Philadelphia,PHI,108,Cleveland,CLE,Philadelphia,PHI
+218,201611270PHO,Denver,DEN,120,Phoenix,PHO,114,Denver,DEN,Phoenix,PHO
+219,201611280GSW,Atlanta,ATL,100,Golden State,GSW,105,Golden State,GSW,Atlanta,ATL
+220,201611280MEM,Charlotte,CHO,104,Memphis,MEM,85,Charlotte,CHO,Memphis,MEM
+221,201611280MIA,Boston,BOS,112,Miami,MIA,104,Boston,BOS,Miami,MIA
+222,201611280MIN,Utah,UTA,112,Minnesota,MIN,103,Utah,UTA,Minnesota,MIN
+223,201611280NYK,Oklahoma City,OKC,112,New York,NYK,103,Oklahoma City,OKC,New York,NYK
+224,201611280TOR,Philadelphia,PHI,95,Toronto,TOR,122,Toronto,TOR,Philadelphia,PHI
+225,201611290BRK,LA Clippers,LAC,122,Brooklyn,BRK,127,Brooklyn,BRK,LA Clippers,LAC
+226,201611290CHO,Detroit,DET,112,Charlotte,CHO,89,Detroit,DET,Charlotte,CHO
+227,201611290MIL,Cleveland,CLE,101,Milwaukee,MIL,118,Milwaukee,MIL,Cleveland,CLE
+228,201611290NOP,LA Lakers,LAL,88,New Orleans,NOP,105,New Orleans,NOP,LA Lakers,LAL
+229,201611290SAS,Orlando,ORL,95,San Antonio,SAS,83,Orlando,ORL,San Antonio,SAS
+230,201611300BOS,Detroit,DET,121,Boston,BOS,114,Detroit,DET,Boston,BOS
+231,201611300CHI,LA Lakers,LAL,96,Chicago,CHI,90,LA Lakers,LAL,Chicago,CHI
+232,201611300DAL,San Antonio,SAS,94,Dallas,DAL,87,San Antonio,SAS,Dallas,DAL
+233,201611300DEN,Miami,MIA,106,Denver,DEN,98,Miami,MIA,Denver,DEN
+234,201611300MIN,New York,NYK,106,Minnesota,MIN,104,New York,NYK,Minnesota,MIN
+235,201611300OKC,Washington,WAS,115,Oklahoma City,OKC,126,Oklahoma City,OKC,Washington,WAS
+236,201611300PHO,Atlanta,ATL,107,Phoenix,PHO,109,Phoenix,PHO,Atlanta,ATL
+237,201611300POR,Indiana,IND,109,Portland,POR,131,Portland,POR,Indiana,IND
+238,201612010BRK,Milwaukee,MIL,111,Brooklyn,BRK,93,Milwaukee,MIL,Brooklyn,BRK
+239,201612010CHO,Dallas,DAL,87,Charlotte,CHO,97,Charlotte,CHO,Dallas,DAL
+240,201612010CLE,LA Clippers,LAC,113,Cleveland,CLE,94,LA Clippers,LAC,Cleveland,CLE
+241,201612010GSW,Houston,HOU,132,Golden State,GSW,127,Houston,HOU,Golden State,GSW
+242,201612010MEM,Orlando,ORL,94,Memphis,MEM,95,Memphis,MEM,Orlando,ORL
+243,201612020ATL,Detroit,DET,121,Atlanta,ATL,85,Detroit,DET,Atlanta,ATL
+244,201612020BOS,Sacramento,SAC,92,Boston,BOS,97,Boston,BOS,Sacramento,SAC
+245,201612020CHI,Cleveland,CLE,105,Chicago,CHI,111,Chicago,CHI,Cleveland,CLE
+246,201612020DEN,Houston,HOU,128,Denver,DEN,110,Houston,HOU,Denver,DEN
+247,201612020NOP,LA Clippers,LAC,114,New Orleans,NOP,96,LA Clippers,LAC,New Orleans,NOP
+248,201612020NYK,Minnesota,MIN,114,New York,NYK,118,New York,NYK,Minnesota,MIN
+249,201612020PHI,Orlando,ORL,105,Philadelphia,PHI,88,Orlando,ORL,Philadelphia,PHI
+250,201612020SAS,Washington,WAS,105,San Antonio,SAS,107,San Antonio,SAS,Washington,WAS
+251,201612030CHO,Minnesota,MIN,125,Charlotte,CHO,120,Minnesota,MIN,Charlotte,CHO
+252,201612030DAL,Chicago,CHI,82,Dallas,DAL,107,Dallas,DAL,Chicago,CHI
+253,201612030GSW,Phoenix,PHO,109,Golden State,GSW,138,Golden State,GSW,Phoenix,PHO
+254,201612030MEM,LA Lakers,LAL,100,Memphis,MEM,103,Memphis,MEM,LA Lakers,LAL
+255,201612030MIL,Brooklyn,BRK,103,Milwaukee,MIL,112,Milwaukee,MIL,Brooklyn,BRK
+256,201612030PHI,Boston,BOS,107,Philadelphia,PHI,106,Boston,BOS,Philadelphia,PHI
+257,201612030POR,Miami,MIA,92,Portland,POR,99,Portland,POR,Miami,MIA
+258,201612030TOR,Atlanta,ATL,84,Toronto,TOR,128,Toronto,TOR,Atlanta,ATL
+259,201612040DET,Orlando,ORL,98,Detroit,DET,92,Orlando,ORL,Detroit,DET
+260,201612040LAC,Indiana,IND,111,LA Clippers,LAC,102,Indiana,IND,LA Clippers,LAC
+261,201612040NYK,Sacramento,SAC,98,New York,NYK,106,New York,NYK,Sacramento,SAC
+262,201612050ATL,Oklahoma City,OKC,102,Atlanta,ATL,99,Oklahoma City,OKC,Atlanta,ATL
+263,201612050BRK,Washington,WAS,118,Brooklyn,BRK,113,Washington,WAS,Brooklyn,BRK
+264,201612050CHI,Portland,POR,112,Chicago,CHI,110,Portland,POR,Chicago,CHI
+265,201612050DAL,Charlotte,CHO,109,Dallas,DAL,101,Charlotte,CHO,Dallas,DAL
+266,201612050GSW,Indiana,IND,106,Golden State,GSW,142,Golden State,GSW,Indiana,IND
+267,201612050HOU,Boston,BOS,106,Houston,HOU,107,Houston,HOU,Boston,BOS
+268,201612050LAL,Utah,UTA,107,LA Lakers,LAL,101,Utah,UTA,LA Lakers,LAL
+269,201612050MIL,San Antonio,SAS,97,Milwaukee,MIL,96,San Antonio,SAS,Milwaukee,MIL
+270,201612050NOP,Memphis,MEM,110,New Orleans,NOP,108,Memphis,MEM,New Orleans,NOP
+271,201612050PHI,Denver,DEN,106,Philadelphia,PHI,98,Denver,DEN,Philadelphia,PHI
+272,201612060DET,Chicago,CHI,91,Detroit,DET,102,Detroit,DET,Chicago,CHI
+273,201612060MEM,Philadelphia,PHI,91,Memphis,MEM,96,Memphis,MEM,Philadelphia,PHI
+274,201612060MIA,New York,NYK,114,Miami,MIA,103,New York,NYK,Miami,MIA
+275,201612060MIN,San Antonio,SAS,105,Minnesota,MIN,91,San Antonio,SAS,Minnesota,MIN
+276,201612060UTA,Phoenix,PHO,105,Utah,UTA,112,Utah,UTA,Phoenix,PHO
+277,201612070ATL,Miami,MIA,95,Atlanta,ATL,103,Atlanta,ATL,Miami,MIA
+278,201612070BRK,Denver,DEN,111,Brooklyn,BRK,116,Brooklyn,BRK,Denver,DEN
+279,201612070CHO,Detroit,DET,77,Charlotte,CHO,87,Charlotte,CHO,Detroit,DET
+280,201612070DAL,Sacramento,SAC,120,Dallas,DAL,89,Sacramento,SAC,Dallas,DAL
+281,201612070HOU,LA Lakers,LAL,95,Houston,HOU,134,Houston,HOU,LA Lakers,LAL
+282,201612070LAC,Golden State,GSW,115,LA Clippers,LAC,98,Golden State,GSW,LA Clippers,LAC
+283,201612070MIL,Portland,POR,107,Milwaukee,MIL,115,Milwaukee,MIL,Portland,POR
+284,201612070NYK,Cleveland,CLE,126,New York,NYK,94,Cleveland,CLE,New York,NYK
+285,201612070ORL,Boston,BOS,117,Orlando,ORL,87,Boston,BOS,Orlando,ORL
+286,201612080CHI,San Antonio,SAS,91,Chicago,CHI,95,Chicago,CHI,San Antonio,SAS
+287,201612080MEM,Portland,POR,86,Memphis,MEM,88,Memphis,MEM,Portland,POR
+288,201612080NOP,Philadelphia,PHI,99,New Orleans,NOP,88,Philadelphia,PHI,New Orleans,NOP
+289,201612080TOR,Minnesota,MIN,110,Toronto,TOR,124,Toronto,TOR,Minnesota,MIN
+290,201612080UTA,Golden State,GSW,106,Utah,UTA,99,Golden State,GSW,Utah,UTA
+291,201612090BOS,Toronto,TOR,101,Boston,BOS,94,Toronto,TOR,Boston,BOS
+292,201612090CHO,Orlando,ORL,88,Charlotte,CHO,109,Charlotte,CHO,Orlando,ORL
+293,201612090CLE,Miami,MIA,84,Cleveland,CLE,114,Cleveland,CLE,Miami,MIA
+294,201612090DAL,Indiana,IND,103,Dallas,DAL,111,Dallas,DAL,Indiana,IND
+295,201612090LAL,Phoenix,PHO,119,LA Lakers,LAL,115,Phoenix,PHO,LA Lakers,LAL
+296,201612090MIL,Atlanta,ATL,114,Milwaukee,MIL,110,Atlanta,ATL,Milwaukee,MIL
+297,201612090MIN,Detroit,DET,117,Minnesota,MIN,90,Detroit,DET,Minnesota,MIN
+298,201612090OKC,Houston,HOU,102,Oklahoma City,OKC,99,Houston,HOU,Oklahoma City,OKC
+299,201612100CHI,Miami,MIA,100,Chicago,CHI,105,Chicago,CHI,Miami,MIA
+300,201612100CLE,Charlotte,CHO,105,Cleveland,CLE,116,Cleveland,CLE,Charlotte,CHO
+301,201612100HOU,Dallas,DAL,87,Houston,HOU,109,Houston,HOU,Dallas,DAL
+302,201612100IND,Portland,POR,111,Indiana,IND,118,Indiana,IND,Portland,POR
+303,201612100LAC,New Orleans,NOP,105,LA Clippers,LAC,133,LA Clippers,LAC,New Orleans,NOP
+304,201612100MEM,Golden State,GSW,89,Memphis,MEM,110,Memphis,MEM,Golden State,GSW
+305,201612100ORL,Denver,DEN,121,Orlando,ORL,113,Denver,DEN,Orlando,ORL
+306,201612100SAS,Brooklyn,BRK,101,San Antonio,SAS,130,San Antonio,SAS,Brooklyn,BRK
+307,201612100UTA,Sacramento,SAC,84,Utah,UTA,104,Utah,UTA,Sacramento,SAC
+308,201612110DET,Philadelphia,PHI,97,Detroit,DET,79,Philadelphia,PHI,Detroit,DET
+309,201612110LAL,New York,NYK,118,LA Lakers,LAL,112,New York,NYK,LA Lakers,LAL
+310,201612110MIN,Golden State,GSW,116,Minnesota,MIN,108,Golden State,GSW,Minnesota,MIN
+311,201612110OKC,Boston,BOS,96,Oklahoma City,OKC,99,Oklahoma City,OKC,Boston,BOS
+312,201612120DAL,Denver,DEN,92,Dallas,DAL,112,Dallas,DAL,Denver,DEN
+313,201612120HOU,Brooklyn,BRK,118,Houston,HOU,122,Houston,HOU,Brooklyn,BRK
+314,201612120IND,Charlotte,CHO,94,Indiana,IND,110,Indiana,IND,Charlotte,CHO
+315,201612120LAC,Portland,POR,120,LA Clippers,LAC,121,LA Clippers,LAC,Portland,POR
+316,201612120MIA,Washington,WAS,101,Miami,MIA,112,Miami,MIA,Washington,WAS
+317,201612120SAC,LA Lakers,LAL,92,Sacramento,SAC,116,Sacramento,SAC,LA Lakers,LAL
+318,201612130ATL,Orlando,ORL,131,Atlanta,ATL,120,Orlando,ORL,Atlanta,ATL
+319,201612130CHI,Minnesota,MIN,99,Chicago,CHI,94,Minnesota,MIN,Chicago,CHI
+320,201612130CLE,Memphis,MEM,86,Cleveland,CLE,103,Cleveland,CLE,Memphis,MEM
+321,201612130NOP,Golden State,GSW,113,New Orleans,NOP,109,Golden State,GSW,New Orleans,NOP
+322,201612130PHO,New York,NYK,111,Phoenix,PHO,113,Phoenix,PHO,New York,NYK
+323,201612140BRK,LA Lakers,LAL,97,Brooklyn,BRK,107,Brooklyn,BRK,LA Lakers,LAL
+324,201612140DAL,Detroit,DET,95,Dallas,DAL,85,Detroit,DET,Dallas,DAL
+325,201612140HOU,Sacramento,SAC,98,Houston,HOU,132,Houston,HOU,Sacramento,SAC
+326,201612140MEM,Cleveland,CLE,85,Memphis,MEM,93,Memphis,MEM,Cleveland,CLE
+327,201612140MIA,Indiana,IND,89,Miami,MIA,95,Miami,MIA,Indiana,IND
+328,201612140ORL,LA Clippers,LAC,113,Orlando,ORL,108,LA Clippers,LAC,Orlando,ORL
+329,201612140PHI,Toronto,TOR,123,Philadelphia,PHI,114,Toronto,TOR,Philadelphia,PHI
+330,201612140SAS,Boston,BOS,101,San Antonio,SAS,108,San Antonio,SAS,Boston,BOS
+331,201612140UTA,Oklahoma City,OKC,89,Utah,UTA,109,Utah,UTA,Oklahoma City,OKC
+332,201612150DEN,Portland,POR,120,Denver,DEN,132,Denver,DEN,Portland,POR
+333,201612150GSW,New York,NYK,90,Golden State,GSW,103,Golden State,GSW,New York,NYK
+334,201612150MIL,Chicago,CHI,97,Milwaukee,MIL,108,Milwaukee,MIL,Chicago,CHI
+335,201612150NOP,Indiana,IND,95,New Orleans,NOP,102,New Orleans,NOP,Indiana,IND
+336,201612160BOS,Charlotte,CHO,88,Boston,BOS,96,Boston,BOS,Charlotte,CHO
+337,201612160CHI,Milwaukee,MIL,95,Chicago,CHI,69,Milwaukee,MIL,Chicago,CHI
+338,201612160HOU,New Orleans,NOP,100,Houston,HOU,122,Houston,HOU,New Orleans,NOP
+339,201612160MEM,Sacramento,SAC,96,Memphis,MEM,92,Sacramento,SAC,Memphis,MEM
+340,201612160MIA,LA Clippers,LAC,102,Miami,MIA,98,LA Clippers,LAC,Miami,MIA
+341,201612160ORL,Brooklyn,BRK,111,Orlando,ORL,118,Orlando,ORL,Brooklyn,BRK
+342,201612160PHI,LA Lakers,LAL,100,Philadelphia,PHI,89,LA Lakers,LAL,Philadelphia,PHI
+343,201612160TOR,Atlanta,ATL,125,Toronto,TOR,121,Atlanta,ATL,Toronto,TOR
+344,201612160UTA,Dallas,DAL,100,Utah,UTA,103,Utah,UTA,Dallas,DAL
+345,201612170ATL,Charlotte,CHO,107,Atlanta,ATL,99,Charlotte,CHO,Atlanta,ATL
+346,201612170CLE,LA Lakers,LAL,108,Cleveland,CLE,119,Cleveland,CLE,LA Lakers,LAL
+347,201612170DEN,New York,NYK,114,Denver,DEN,127,Denver,DEN,New York,NYK
+348,201612170DET,Indiana,IND,105,Detroit,DET,90,Indiana,IND,Detroit,DET
+349,201612170GSW,Portland,POR,90,Golden State,GSW,135,Golden State,GSW,Portland,POR
+350,201612170MIN,Houston,HOU,111,Minnesota,MIN,109,Houston,HOU,Minnesota,MIN
+351,201612180DAL,Sacramento,SAC,79,Dallas,DAL,99,Dallas,DAL,Sacramento,SAC
+352,201612180MEM,Utah,UTA,82,Memphis,MEM,73,Utah,UTA,Memphis,MEM
+353,201612180MIA,Boston,BOS,105,Miami,MIA,95,Boston,BOS,Miami,MIA
+354,201612180ORL,Toronto,TOR,109,Orlando,ORL,79,Toronto,TOR,Orlando,ORL
+355,201612180PHI,Brooklyn,BRK,107,Philadelphia,PHI,108,Philadelphia,PHI,Brooklyn,BRK
+356,201612180SAS,New Orleans,NOP,100,San Antonio,SAS,113,San Antonio,SAS,New Orleans,NOP
+357,201612190CHI,Detroit,DET,82,Chicago,CHI,113,Chicago,CHI,Detroit,DET
+358,201612190DEN,Dallas,DAL,107,Denver,DEN,117,Denver,DEN,Dallas,DAL
+359,201612190IND,Washington,WAS,105,Indiana,IND,107,Indiana,IND,Washington,WAS
+360,201612190MIN,Phoenix,PHO,108,Minnesota,MIN,115,Minnesota,MIN,Phoenix,PHO
+361,201612200CHO,LA Lakers,LAL,113,Charlotte,CHO,117,Charlotte,CHO,LA Lakers,LAL
+362,201612200GSW,Utah,UTA,74,Golden State,GSW,104,Golden State,GSW,Utah,UTA
+363,201612200HOU,San Antonio,SAS,102,Houston,HOU,100,San Antonio,SAS,Houston,HOU
+364,201612200LAC,Denver,DEN,102,LA Clippers,LAC,119,LA Clippers,LAC,Denver,DEN
+365,201612200MEM,Boston,BOS,112,Memphis,MEM,109,Boston,BOS,Memphis,MEM
+366,201612200MIA,Orlando,ORL,136,Miami,MIA,130,Orlando,ORL,Miami,MIA
+367,201612200MIL,Cleveland,CLE,114,Milwaukee,MIL,108,Cleveland,CLE,Milwaukee,MIL
+368,201612200NYK,Indiana,IND,111,New York,NYK,118,New York,NYK,Indiana,IND
+369,201612200PHI,New Orleans,NOP,108,Philadelphia,PHI,93,New Orleans,NOP,Philadelphia,PHI
+370,201612200SAC,Portland,POR,121,Sacramento,SAC,126,Sacramento,SAC,Portland,POR
+371,201612210ATL,Minnesota,MIN,92,Atlanta,ATL,84,Minnesota,MIN,Atlanta,ATL
+372,201612210CHI,Washington,WAS,107,Chicago,CHI,97,Washington,WAS,Chicago,CHI
+373,201612210CLE,Milwaukee,MIL,102,Cleveland,CLE,113,Cleveland,CLE,Milwaukee,MIL
+374,201612210DET,Memphis,MEM,98,Detroit,DET,86,Memphis,MEM,Detroit,DET
+375,201612210NOP,Oklahoma City,OKC,121,New Orleans,NOP,110,Oklahoma City,OKC,New Orleans,NOP
+376,201612210PHO,Houston,HOU,125,Phoenix,PHO,111,Houston,HOU,Phoenix,PHO
+377,201612210POR,Dallas,DAL,96,Portland,POR,95,Dallas,DAL,Portland,POR
+378,201612220BRK,Golden State,GSW,117,Brooklyn,BRK,101,Golden State,GSW,Brooklyn,BRK
+379,201612220IND,Boston,BOS,109,Indiana,IND,102,Boston,BOS,Indiana,IND
+380,201612220LAC,San Antonio,SAS,101,LA Clippers,LAC,106,LA Clippers,LAC,San Antonio,SAS
+381,201612220MIA,LA Lakers,LAL,107,Miami,MIA,115,Miami,MIA,LA Lakers,LAL
+382,201612230BOS,Oklahoma City,OKC,117,Boston,BOS,112,Oklahoma City,OKC,Boston,BOS
+383,201612230CHO,Chicago,CHI,91,Charlotte,CHO,103,Charlotte,CHO,Chicago,CHI
+384,201612230CLE,Brooklyn,BRK,99,Cleveland,CLE,119,Cleveland,CLE,Brooklyn,BRK
+385,201612230DEN,Atlanta,ATL,109,Denver,DEN,108,Atlanta,ATL,Denver,DEN
+386,201612230DET,Golden State,GSW,119,Detroit,DET,113,Golden State,GSW,Detroit,DET
+387,201612230LAC,Dallas,DAL,90,LA Clippers,LAC,88,Dallas,DAL,LA Clippers,LAC
+388,201612230MEM,Houston,HOU,109,Memphis,MEM,115,Memphis,MEM,Houston,HOU
+389,201612230MIL,Washington,WAS,96,Milwaukee,MIL,123,Milwaukee,MIL,Washington,WAS
+390,201612230MIN,Sacramento,SAC,109,Minnesota,MIN,105,Sacramento,SAC,Minnesota,MIN
+391,201612230NOP,Miami,MIA,87,New Orleans,NOP,91,New Orleans,NOP,Miami,MIA
+392,201612230ORL,LA Lakers,LAL,90,Orlando,ORL,109,Orlando,ORL,LA Lakers,LAL
+393,201612230PHO,Philadelphia,PHI,116,Phoenix,PHO,123,Phoenix,PHO,Philadelphia,PHI
+394,201612230POR,San Antonio,SAS,110,Portland,POR,90,San Antonio,SAS,Portland,POR
+395,201612250CLE,Golden State,GSW,108,Cleveland,CLE,109,Cleveland,CLE,Golden State,GSW
+396,201612250LAL,LA Clippers,LAC,102,LA Lakers,LAL,111,LA Lakers,LAL,LA Clippers,LAC
+397,201612250NYK,Boston,BOS,119,New York,NYK,114,Boston,BOS,New York,NYK
+398,201612250OKC,Minnesota,MIN,100,Oklahoma City,OKC,112,Oklahoma City,OKC,Minnesota,MIN
+399,201612260BRK,Charlotte,CHO,118,Brooklyn,BRK,120,Brooklyn,BRK,Charlotte,CHO
+400,201612260CHI,Indiana,IND,85,Chicago,CHI,90,Chicago,CHI,Indiana,IND
+401,201612260DET,Cleveland,CLE,90,Detroit,DET,106,Detroit,DET,Cleveland,CLE
+402,201612260HOU,Phoenix,PHO,115,Houston,HOU,131,Houston,HOU,Phoenix,PHO
+403,201612260LAC,Denver,DEN,106,LA Clippers,LAC,102,Denver,DEN,LA Clippers,LAC
+404,201612260MIN,Atlanta,ATL,90,Minnesota,MIN,104,Minnesota,MIN,Atlanta,ATL
+405,201612260NOP,Dallas,DAL,104,New Orleans,NOP,111,New Orleans,NOP,Dallas,DAL
+406,201612260ORL,Memphis,MEM,102,Orlando,ORL,112,Orlando,ORL,Memphis,MEM
+407,201612260POR,Toronto,TOR,95,Portland,POR,91,Toronto,TOR,Portland,POR
+408,201612260SAC,Philadelphia,PHI,100,Sacramento,SAC,102,Sacramento,SAC,Philadelphia,PHI
+409,201612270BOS,Memphis,MEM,103,Boston,BOS,113,Boston,BOS,Memphis,MEM
+410,201612270DAL,Houston,HOU,123,Dallas,DAL,107,Houston,HOU,Dallas,DAL
+411,201612270LAL,Utah,UTA,102,LA Lakers,LAL,100,Utah,UTA,LA Lakers,LAL
+412,201612280ATL,New York,NYK,98,Atlanta,ATL,102,Atlanta,ATL,New York,NYK
+413,201612280CHI,Brooklyn,BRK,99,Chicago,CHI,101,Chicago,CHI,Brooklyn,BRK
+414,201612280DEN,Minnesota,MIN,103,Denver,DEN,105,Denver,DEN,Minnesota,MIN
+415,201612280DET,Milwaukee,MIL,119,Detroit,DET,94,Milwaukee,MIL,Detroit,DET
+416,201612280GSW,Toronto,TOR,111,Golden State,GSW,121,Golden State,GSW,Toronto,TOR
+417,201612280NOP,LA Clippers,LAC,98,New Orleans,NOP,102,New Orleans,NOP,LA Clippers,LAC
+418,201612280ORL,Charlotte,CHO,120,Orlando,ORL,101,Charlotte,CHO,Orlando,ORL
+419,201612280POR,Sacramento,SAC,89,Portland,POR,102,Portland,POR,Sacramento,SAC
+420,201612280SAS,Phoenix,PHO,98,San Antonio,SAS,119,San Antonio,SAS,Phoenix,PHO
+421,201612290CHO,Miami,MIA,82,Charlotte,CHO,91,Charlotte,CHO,Miami,MIA
+422,201612290CLE,Boston,BOS,118,Cleveland,CLE,124,Cleveland,CLE,Boston,BOS
+423,201612290LAL,Dallas,DAL,101,LA Lakers,LAL,89,Dallas,DAL,LA Lakers,LAL
+424,201612290MEM,Oklahoma City,OKC,80,Memphis,MEM,114,Memphis,MEM,Oklahoma City,OKC
+425,201612290PHO,Toronto,TOR,91,Phoenix,PHO,99,Phoenix,PHO,Toronto,TOR
+426,201612300ATL,Detroit,DET,98,Atlanta,ATL,105,Atlanta,ATL,Detroit,DET
+427,201612300BOS,Miami,MIA,114,Boston,BOS,117,Boston,BOS,Miami,MIA
+428,201612300DEN,Philadelphia,PHI,124,Denver,DEN,122,Philadelphia,PHI,Denver,DEN
+429,201612300GSW,Dallas,DAL,99,Golden State,GSW,108,Golden State,GSW,Dallas,DAL
+430,201612300HOU,LA Clippers,LAC,116,Houston,HOU,140,Houston,HOU,LA Clippers,LAC
+431,201612300IND,Chicago,CHI,101,Indiana,IND,111,Indiana,IND,Chicago,CHI
+432,201612300MIN,Milwaukee,MIL,99,Minnesota,MIN,116,Minnesota,MIN,Milwaukee,MIL
+433,201612300NOP,New York,NYK,92,New Orleans,NOP,104,New Orleans,NOP,New York,NYK
+434,201612300SAS,Portland,POR,94,San Antonio,SAS,110,San Antonio,SAS,Portland,POR
+435,201612310CHI,Milwaukee,MIL,116,Chicago,CHI,96,Milwaukee,MIL,Chicago,CHI
+436,201612310CHO,Cleveland,CLE,121,Charlotte,CHO,109,Cleveland,CLE,Charlotte,CHO
+437,201612310HOU,New York,NYK,122,Houston,HOU,129,Houston,HOU,New York,NYK
+438,201612310OKC,LA Clippers,LAC,88,Oklahoma City,OKC,114,Oklahoma City,OKC,LA Clippers,LAC
+439,201612310SAC,Memphis,MEM,112,Sacramento,SAC,98,Memphis,MEM,Sacramento,SAC
+440,201701010ATL,San Antonio,SAS,112,Atlanta,ATL,114,Atlanta,ATL,San Antonio,SAS
+441,201701010IND,Orlando,ORL,104,Indiana,IND,117,Indiana,IND,Orlando,ORL
+442,201701010LAL,Toronto,TOR,123,LA Lakers,LAL,114,Toronto,TOR,LA Lakers,LAL
+443,201701010MIA,Detroit,DET,107,Miami,MIA,98,Detroit,DET,Miami,MIA
+444,201701020BRK,Utah,UTA,101,Brooklyn,BRK,89,Utah,UTA,Brooklyn,BRK
+445,201701020CHI,Charlotte,CHO,111,Chicago,CHI,118,Chicago,CHI,Charlotte,CHO
+446,201701020CLE,New Orleans,NOP,82,Cleveland,CLE,90,Cleveland,CLE,New Orleans,NOP
+447,201701020GSW,Denver,DEN,119,Golden State,GSW,127,Golden State,GSW,Denver,DEN
+448,201701020HOU,Washington,WAS,91,Houston,HOU,101,Houston,HOU,Washington,WAS
+449,201701020LAC,Phoenix,PHO,98,LA Clippers,LAC,109,LA Clippers,LAC,Phoenix,PHO
+450,201701020MIL,Oklahoma City,OKC,94,Milwaukee,MIL,98,Milwaukee,MIL,Oklahoma City,OKC
+451,201701030BOS,Utah,UTA,104,Boston,BOS,115,Boston,BOS,Utah,UTA
+452,201701030DAL,Washington,WAS,105,Dallas,DAL,113,Dallas,DAL,Washington,WAS
+453,201701030DEN,Sacramento,SAC,120,Denver,DEN,113,Sacramento,SAC,Denver,DEN
+454,201701030DET,Indiana,IND,121,Detroit,DET,116,Indiana,IND,Detroit,DET
+455,201701030LAL,Memphis,MEM,102,LA Lakers,LAL,116,LA Lakers,LAL,Memphis,MEM
+456,201701030PHI,Minnesota,MIN,91,Philadelphia,PHI,93,Philadelphia,PHI,Minnesota,MIN
+457,201701030PHO,Miami,MIA,90,Phoenix,PHO,99,Phoenix,PHO,Miami,MIA
+458,201701040CHO,Oklahoma City,OKC,112,Charlotte,CHO,123,Charlotte,CHO,Oklahoma City,OKC
+459,201701040CLE,Chicago,CHI,106,Cleveland,CLE,94,Chicago,CHI,Cleveland,CLE
+460,201701040GSW,Portland,POR,117,Golden State,GSW,125,Golden State,GSW,Portland,POR
+461,201701040LAC,Memphis,MEM,106,LA Clippers,LAC,115,LA Clippers,LAC,Memphis,MEM
+462,201701040NYK,Milwaukee,MIL,105,New York,NYK,104,Milwaukee,MIL,New York,NYK
+463,201701040ORL,Atlanta,ATL,111,Orlando,ORL,92,Atlanta,ATL,Orlando,ORL
+464,201701050DAL,Phoenix,PHO,102,Dallas,DAL,95,Phoenix,PHO,Dallas,DAL
+465,201701050DEN,San Antonio,SAS,127,Denver,DEN,99,San Antonio,SAS,Denver,DEN
+466,201701050DET,Charlotte,CHO,114,Detroit,DET,115,Detroit,DET,Charlotte,CHO
+467,201701050HOU,Oklahoma City,OKC,116,Houston,HOU,118,Houston,HOU,Oklahoma City,OKC
+468,201701050IND,Brooklyn,BRK,109,Indiana,IND,121,Indiana,IND,Brooklyn,BRK
+469,201701050NOP,Atlanta,ATL,99,New Orleans,NOP,94,Atlanta,ATL,New Orleans,NOP
+470,201701050POR,LA Lakers,LAL,109,Portland,POR,118,Portland,POR,LA Lakers,LAL
+471,201701060BOS,Philadelphia,PHI,106,Boston,BOS,110,Boston,BOS,Philadelphia,PHI
+472,201701060BRK,Cleveland,CLE,116,Brooklyn,BRK,108,Cleveland,CLE,Brooklyn,BRK
+473,201701060GSW,Memphis,MEM,128,Golden State,GSW,119,Memphis,MEM,Golden State,GSW
+474,201701060LAL,Miami,MIA,100,LA Lakers,LAL,127,LA Lakers,LAL,Miami,MIA
+475,201701060MIL,New York,NYK,116,Milwaukee,MIL,111,New York,NYK,Milwaukee,MIL
+476,201701060ORL,Houston,HOU,100,Orlando,ORL,93,Houston,HOU,Orlando,ORL
+477,201701060SAC,LA Clippers,LAC,106,Sacramento,SAC,98,LA Clippers,LAC,Sacramento,SAC
+478,201701070BOS,New Orleans,NOP,108,Boston,BOS,117,Boston,BOS,New Orleans,NOP
+479,201701070CHI,Toronto,TOR,118,Chicago,CHI,123,Chicago,CHI,Toronto,TOR
+480,201701070DAL,Atlanta,ATL,97,Dallas,DAL,82,Atlanta,ATL,Dallas,DAL
+481,201701070IND,New York,NYK,109,Indiana,IND,123,Indiana,IND,New York,NYK
+482,201701070MIN,Utah,UTA,94,Minnesota,MIN,92,Utah,UTA,Minnesota,MIN
+483,201701070OKC,Denver,DEN,106,Oklahoma City,OKC,121,Oklahoma City,OKC,Denver,DEN
+484,201701080BRK,Philadelphia,PHI,105,Brooklyn,BRK,95,Philadelphia,PHI,Brooklyn,BRK
+485,201701080LAC,Miami,MIA,86,LA Clippers,LAC,98,LA Clippers,LAC,Miami,MIA
+486,201701080LAL,Orlando,ORL,95,LA Lakers,LAL,111,LA Lakers,LAL,Orlando,ORL
+487,201701080MEM,Utah,UTA,79,Memphis,MEM,88,Memphis,MEM,Utah,UTA
+488,201701080MIL,Washington,WAS,107,Milwaukee,MIL,101,Washington,WAS,Milwaukee,MIL
+489,201701080PHO,Cleveland,CLE,120,Phoenix,PHO,116,Cleveland,CLE,Phoenix,PHO
+490,201701080POR,Detroit,DET,125,Portland,POR,124,Detroit,DET,Portland,POR
+491,201701080SAC,Golden State,GSW,117,Sacramento,SAC,106,Golden State,GSW,Sacramento,SAC
+492,201701090CHI,Oklahoma City,OKC,109,Chicago,CHI,94,Oklahoma City,OKC,Chicago,CHI
+493,201701090MIN,Dallas,DAL,92,Minnesota,MIN,101,Minnesota,MIN,Dallas,DAL
+494,201701100BRK,Atlanta,ATL,117,Brooklyn,BRK,97,Atlanta,ATL,Brooklyn,BRK
+495,201701100GSW,Miami,MIA,95,Golden State,GSW,107,Golden State,GSW,Miami,MIA
+496,201701100HOU,Charlotte,CHO,114,Houston,HOU,121,Houston,HOU,Charlotte,CHO
+497,201701100LAL,Portland,POR,108,LA Lakers,LAL,87,Portland,POR,LA Lakers,LAL
+498,201701100SAC,Detroit,DET,94,Sacramento,SAC,100,Sacramento,SAC,Detroit,DET
+499,201701100SAS,Milwaukee,MIL,109,San Antonio,SAS,107,Milwaukee,MIL,San Antonio,SAS
+500,201701100TOR,Boston,BOS,106,Toronto,TOR,114,Toronto,TOR,Boston,BOS
+501,201701100UTA,Cleveland,CLE,92,Utah,UTA,100,Utah,UTA,Cleveland,CLE
+502,201701110BOS,Washington,WAS,108,Boston,BOS,117,Boston,BOS,Washington,WAS
+503,201701110LAC,Orlando,ORL,96,LA Clippers,LAC,105,LA Clippers,LAC,Orlando,ORL
+504,201701110MIN,Houston,HOU,105,Minnesota,MIN,119,Minnesota,MIN,Houston,HOU
+505,201701110OKC,Memphis,MEM,95,Oklahoma City,OKC,103,Oklahoma City,OKC,Memphis,MEM
+506,201701110PHI,New York,NYK,97,Philadelphia,PHI,98,Philadelphia,PHI,New York,NYK
+507,201701120BRK,New Orleans,NOP,104,Brooklyn,BRK,95,New Orleans,NOP,Brooklyn,BRK
+508,201701120DEN,Indiana,IND,112,Denver,DEN,140,Denver,DEN,Indiana,IND
+509,201701120GSW,Detroit,DET,107,Golden State,GSW,127,Golden State,GSW,Detroit,DET
+510,201701120NYK,Chicago,CHI,89,New York,NYK,104,New York,NYK,Chicago,CHI
+511,201701120PHO,Dallas,DAL,113,Phoenix,PHO,108,Dallas,DAL,Phoenix,PHO
+512,201701130ATL,Boston,BOS,103,Atlanta,ATL,101,Boston,BOS,Atlanta,ATL
+513,201701130HOU,Memphis,MEM,110,Houston,HOU,105,Memphis,MEM,Houston,HOU
+514,201701130MIL,Miami,MIA,108,Milwaukee,MIL,116,Milwaukee,MIL,Miami,MIA
+515,201701130MIN,Oklahoma City,OKC,86,Minnesota,MIN,96,Minnesota,MIN,Oklahoma City,OKC
+516,201701130PHI,Charlotte,CHO,93,Philadelphia,PHI,102,Philadelphia,PHI,Charlotte,CHO
+517,201701130POR,Orlando,ORL,115,Portland,POR,109,Orlando,ORL,Portland,POR
+518,201701130SAC,Cleveland,CLE,120,Sacramento,SAC,108,Cleveland,CLE,Sacramento,SAC
+519,201701130TOR,Brooklyn,BRK,113,Toronto,TOR,132,Toronto,TOR,Brooklyn,BRK
+520,201701140CHI,New Orleans,NOP,99,Chicago,CHI,107,Chicago,CHI,New Orleans,NOP
+521,201701140LAC,LA Lakers,LAL,97,LA Clippers,LAC,113,LA Clippers,LAC,LA Lakers,LAL
+522,201701140PHO,San Antonio,SAS,105,Phoenix,PHO,108,Phoenix,PHO,San Antonio,SAS
+523,201701140UTA,Orlando,ORL,107,Utah,UTA,114,Utah,UTA,Orlando,ORL
+524,201701150ATL,Milwaukee,MIL,98,Atlanta,ATL,111,Atlanta,ATL,Milwaukee,MIL
+525,201701150BRK,Houston,HOU,137,Brooklyn,BRK,112,Houston,HOU,Brooklyn,BRK
+526,201701150DAL,Minnesota,MIN,87,Dallas,DAL,98,Dallas,DAL,Minnesota,MIN
+527,201701150LAL,Detroit,DET,102,LA Lakers,LAL,97,Detroit,DET,LA Lakers,LAL
+528,201701150MEM,Chicago,CHI,108,Memphis,MEM,104,Chicago,CHI,Memphis,MEM
+529,201701150SAC,Oklahoma City,OKC,122,Sacramento,SAC,118,Oklahoma City,OKC,Sacramento,SAC
+530,201701160BOS,Charlotte,CHO,98,Boston,BOS,108,Boston,BOS,Charlotte,CHO
+531,201701160DEN,Orlando,ORL,112,Denver,DEN,125,Denver,DEN,Orlando,ORL
+532,201701160GSW,Cleveland,CLE,91,Golden State,GSW,126,Golden State,GSW,Cleveland,CLE
+533,201701160IND,New Orleans,NOP,95,Indiana,IND,98,Indiana,IND,New Orleans,NOP
+534,201701160LAC,Oklahoma City,OKC,98,LA Clippers,LAC,120,LA Clippers,LAC,Oklahoma City,OKC
+535,201701160MIL,Philadelphia,PHI,113,Milwaukee,MIL,104,Philadelphia,PHI,Milwaukee,MIL
+536,201701160NYK,Atlanta,ATL,108,New York,NYK,107,Atlanta,ATL,New York,NYK
+537,201701160PHO,Utah,UTA,106,Phoenix,PHO,101,Utah,UTA,Phoenix,PHO
+538,201701170BRK,Toronto,TOR,119,Brooklyn,BRK,109,Toronto,TOR,Brooklyn,BRK
+539,201701170CHI,Dallas,DAL,99,Chicago,CHI,98,Dallas,DAL,Chicago,CHI
+540,201701170LAL,Denver,DEN,127,LA Lakers,LAL,121,Denver,DEN,LA Lakers,LAL
+541,201701170MIA,Houston,HOU,103,Miami,MIA,109,Miami,MIA,Houston,HOU
+542,201701180BOS,New York,NYK,117,Boston,BOS,106,New York,NYK,Boston,BOS
+543,201701180CHO,Portland,POR,85,Charlotte,CHO,107,Charlotte,CHO,Portland,POR
+544,201701180DET,Atlanta,ATL,95,Detroit,DET,118,Detroit,DET,Atlanta,ATL
+545,201701180GSW,Oklahoma City,OKC,100,Golden State,GSW,121,Golden State,GSW,Oklahoma City,OKC
+546,201701180HOU,Milwaukee,MIL,92,Houston,HOU,111,Houston,HOU,Milwaukee,MIL
+547,201701180NOP,Orlando,ORL,98,New Orleans,NOP,118,New Orleans,NOP,Orlando,ORL
+548,201701180PHI,Toronto,TOR,89,Philadelphia,PHI,94,Philadelphia,PHI,Toronto,TOR
+549,201701180SAC,Indiana,IND,106,Sacramento,SAC,100,Indiana,IND,Sacramento,SAC
+550,201701190CLE,Phoenix,PHO,103,Cleveland,CLE,118,Cleveland,CLE,Phoenix,PHO
+551,201701190LAC,Minnesota,MIN,104,LA Clippers,LAC,101,Minnesota,MIN,LA Clippers,LAC
+552,201701190MIA,Dallas,DAL,95,Miami,MIA,99,Miami,MIA,Dallas,DAL
+553,201701190NYK,Washington,WAS,113,New York,NYK,110,Washington,WAS,New York,NYK
+554,201701200ATL,Chicago,CHI,93,Atlanta,ATL,102,Atlanta,ATL,Chicago,CHI
+555,201701200CHO,Toronto,TOR,78,Charlotte,CHO,113,Charlotte,CHO,Toronto,TOR
+556,201701200DAL,Utah,UTA,112,Dallas,DAL,107,Utah,UTA,Dallas,DAL
+557,201701200HOU,Golden State,GSW,125,Houston,HOU,108,Golden State,GSW,Houston,HOU
+558,201701200LAL,Indiana,IND,95,LA Lakers,LAL,108,LA Lakers,LAL,Indiana,IND
+559,201701200MEM,Sacramento,SAC,91,Memphis,MEM,107,Memphis,MEM,Sacramento,SAC
+560,201701200NOP,Brooklyn,BRK,143,New Orleans,NOP,114,Brooklyn,BRK,New Orleans,NOP
+561,201701200ORL,Milwaukee,MIL,96,Orlando,ORL,112,Orlando,ORL,Milwaukee,MIL
+562,201701210ATL,Philadelphia,PHI,93,Atlanta,ATL,110,Atlanta,ATL,Philadelphia,PHI
+563,201701210BOS,Portland,POR,127,Boston,BOS,123,Portland,POR,Boston,BOS
+564,201701210CHI,Sacramento,SAC,99,Chicago,CHI,102,Chicago,CHI,Sacramento,SAC
+565,201701210CHO,Brooklyn,BRK,105,Charlotte,CHO,112,Charlotte,CHO,Brooklyn,BRK
+566,201701210CLE,San Antonio,SAS,118,Cleveland,CLE,115,San Antonio,SAS,Cleveland,CLE
+567,201701210DEN,LA Clippers,LAC,98,Denver,DEN,123,Denver,DEN,LA Clippers,LAC
+568,201701210DET,Washington,WAS,112,Detroit,DET,113,Detroit,DET,Washington,WAS
+569,201701210MEM,Houston,HOU,119,Memphis,MEM,95,Houston,HOU,Memphis,MEM
+570,201701210MIA,Milwaukee,MIL,97,Miami,MIA,109,Miami,MIA,Milwaukee,MIL
+571,201701210NYK,Phoenix,PHO,107,New York,NYK,105,Phoenix,PHO,New York,NYK
+572,201701220DAL,LA Lakers,LAL,73,Dallas,DAL,122,Dallas,DAL,LA Lakers,LAL
+573,201701220MIN,Denver,DEN,108,Minnesota,MIN,111,Minnesota,MIN,Denver,DEN
+574,201701220ORL,Golden State,GSW,118,Orlando,ORL,98,Golden State,GSW,Orlando,ORL
+575,201701230ATL,LA Clippers,LAC,115,Atlanta,ATL,105,LA Clippers,LAC,Atlanta,ATL
+576,201701230BRK,San Antonio,SAS,112,Brooklyn,BRK,86,San Antonio,SAS,Brooklyn,BRK
+577,201701230CHO,Washington,WAS,109,Charlotte,CHO,99,Washington,WAS,Charlotte,CHO
+578,201701230DET,Sacramento,SAC,109,Detroit,DET,104,Sacramento,SAC,Detroit,DET
+579,201701230IND,New York,NYK,109,Indiana,IND,103,New York,NYK,Indiana,IND
+580,201701230MIA,Golden State,GSW,102,Miami,MIA,105,Miami,MIA,Golden State,GSW
+581,201701230MIL,Houston,HOU,114,Milwaukee,MIL,127,Milwaukee,MIL,Houston,HOU
+582,201701230NOP,Cleveland,CLE,122,New Orleans,NOP,124,New Orleans,NOP,Cleveland,CLE
+583,201701240DEN,Utah,UTA,93,Denver,DEN,103,Denver,DEN,Utah,UTA
+584,201701240ORL,Chicago,CHI,100,Orlando,ORL,92,Chicago,CHI,Orlando,ORL
+585,201701240PHI,LA Clippers,LAC,110,Philadelphia,PHI,121,Philadelphia,PHI,LA Clippers,LAC
+586,201701240PHO,Minnesota,MIN,112,Phoenix,PHO,111,Minnesota,MIN,Phoenix,PHO
+587,201701240TOR,San Antonio,SAS,108,Toronto,TOR,106,San Antonio,SAS,Toronto,TOR
+588,201701250BOS,Houston,HOU,109,Boston,BOS,120,Boston,BOS,Houston,HOU
+589,201701250BRK,Miami,MIA,109,Brooklyn,BRK,106,Miami,MIA,Brooklyn,BRK
+590,201701250CHI,Atlanta,ATL,119,Chicago,CHI,114,Atlanta,ATL,Chicago,CHI
+591,201701250CHO,Golden State,GSW,113,Charlotte,CHO,103,Golden State,GSW,Charlotte,CHO
+592,201701250CLE,Sacramento,SAC,116,Cleveland,CLE,112,Sacramento,SAC,Cleveland,CLE
+593,201701250DAL,New York,NYK,95,Dallas,DAL,103,Dallas,DAL,New York,NYK
+594,201701250MEM,Toronto,TOR,99,Memphis,MEM,101,Memphis,MEM,Toronto,TOR
+595,201701250MIL,Philadelphia,PHI,114,Milwaukee,MIL,109,Philadelphia,PHI,Milwaukee,MIL
+596,201701250NOP,Oklahoma City,OKC,114,New Orleans,NOP,105,Oklahoma City,OKC,New Orleans,NOP
+597,201701260DEN,Phoenix,PHO,120,Denver,DEN,127,Denver,DEN,Phoenix,PHO
+598,201701260MIN,Indiana,IND,109,Minnesota,MIN,103,Indiana,IND,Minnesota,MIN
+599,201701260OKC,Dallas,DAL,98,Oklahoma City,OKC,109,Oklahoma City,OKC,Dallas,DAL
+600,201701270ATL,Washington,WAS,112,Atlanta,ATL,86,Washington,WAS,Atlanta,ATL
+601,201701270BOS,Orlando,ORL,98,Boston,BOS,128,Boston,BOS,Orlando,ORL
+602,201701270CHI,Miami,MIA,100,Chicago,CHI,88,Miami,MIA,Chicago,CHI
+603,201701270CLE,Brooklyn,BRK,116,Cleveland,CLE,124,Cleveland,CLE,Brooklyn,BRK
+604,201701270IND,Sacramento,SAC,111,Indiana,IND,115,Indiana,IND,Sacramento,SAC
+605,201701270NOP,San Antonio,SAS,103,New Orleans,NOP,119,New Orleans,NOP,San Antonio,SAS
+606,201701270NYK,Charlotte,CHO,107,New York,NYK,110,New York,NYK,Charlotte,CHO
+607,201701270PHI,Houston,HOU,123,Philadelphia,PHI,118,Houston,HOU,Philadelphia,PHI
+608,201701270POR,Memphis,MEM,109,Portland,POR,112,Portland,POR,Memphis,MEM
+609,201701280CHO,Sacramento,SAC,109,Charlotte,CHO,106,Sacramento,SAC,Charlotte,CHO
+610,201701280GSW,LA Clippers,LAC,98,Golden State,GSW,144,Golden State,GSW,LA Clippers,LAC
+611,201701280MIA,Detroit,DET,103,Miami,MIA,116,Miami,MIA,Detroit,DET
+612,201701280MIL,Boston,BOS,112,Milwaukee,MIL,108,Boston,BOS,Milwaukee,MIL
+613,201701280MIN,Brooklyn,BRK,109,Minnesota,MIN,129,Minnesota,MIN,Brooklyn,BRK
+614,201701280PHO,Denver,DEN,123,Phoenix,PHO,112,Denver,DEN,Phoenix,PHO
+615,201701290ATL,New York,NYK,139,Atlanta,ATL,142,Atlanta,ATL,New York,NYK
+616,201701290CHI,Philadelphia,PHI,108,Chicago,CHI,121,Chicago,CHI,Philadelphia,PHI
+617,201701290CLE,Oklahoma City,OKC,91,Cleveland,CLE,107,Cleveland,CLE,Oklahoma City,OKC
+618,201701290IND,Houston,HOU,101,Indiana,IND,120,Indiana,IND,Houston,HOU
+619,201701290NOP,Washington,WAS,107,New Orleans,NOP,94,Washington,WAS,New Orleans,NOP
+620,201701290POR,Golden State,GSW,113,Portland,POR,111,Golden State,GSW,Portland,POR
+621,201701290SAS,Dallas,DAL,105,San Antonio,SAS,101,Dallas,DAL,San Antonio,SAS
+622,201701300BOS,Detroit,DET,109,Boston,BOS,113,Boston,BOS,Detroit,DET
+623,201701300DAL,Cleveland,CLE,97,Dallas,DAL,104,Dallas,DAL,Cleveland,CLE
+624,201701300MIA,Brooklyn,BRK,96,Miami,MIA,104,Miami,MIA,Brooklyn,BRK
+625,201701300MIN,Orlando,ORL,105,Minnesota,MIN,111,Minnesota,MIN,Orlando,ORL
+626,201701300PHI,Sacramento,SAC,119,Philadelphia,PHI,122,Philadelphia,PHI,Sacramento,SAC
+627,201701310HOU,Sacramento,SAC,83,Houston,HOU,105,Houston,HOU,Sacramento,SAC
+628,201701310LAL,Denver,DEN,116,LA Lakers,LAL,120,LA Lakers,LAL,Denver,DEN
+629,201701310POR,Charlotte,CHO,98,Portland,POR,115,Portland,POR,Charlotte,CHO
+630,201701310SAS,Oklahoma City,OKC,94,San Antonio,SAS,108,San Antonio,SAS,Oklahoma City,OKC
+631,201701310TOR,New Orleans,NOP,106,Toronto,TOR,108,Toronto,TOR,New Orleans,NOP
+632,201702010BOS,Toronto,TOR,104,Boston,BOS,109,Boston,BOS,Toronto,TOR
+633,201702010BRK,New York,NYK,95,Brooklyn,BRK,90,New York,NYK,Brooklyn,BRK
+634,201702010CLE,Minnesota,MIN,97,Cleveland,CLE,125,Cleveland,CLE,Minnesota,MIN
+635,201702010DAL,Philadelphia,PHI,95,Dallas,DAL,113,Dallas,DAL,Philadelphia,PHI
+636,201702010DEN,Memphis,MEM,119,Denver,DEN,99,Memphis,MEM,Denver,DEN
+637,201702010DET,New Orleans,NOP,98,Detroit,DET,118,Detroit,DET,New Orleans,NOP
+638,201702010GSW,Charlotte,CHO,111,Golden State,GSW,126,Golden State,GSW,Charlotte,CHO
+639,201702010MIA,Atlanta,ATL,93,Miami,MIA,116,Miami,MIA,Atlanta,ATL
+640,201702010OKC,Chicago,CHI,128,Oklahoma City,OKC,100,Chicago,CHI,Oklahoma City,OKC
+641,201702010ORL,Indiana,IND,98,Orlando,ORL,88,Indiana,IND,Orlando,ORL
+642,201702010PHO,LA Clippers,LAC,124,Phoenix,PHO,114,LA Clippers,LAC,Phoenix,PHO
+643,201702020HOU,Atlanta,ATL,113,Houston,HOU,108,Atlanta,ATL,Houston,HOU
+644,201702020LAC,Golden State,GSW,133,LA Clippers,LAC,120,Golden State,GSW,LA Clippers,LAC
+645,201702020SAS,Philadelphia,PHI,86,San Antonio,SAS,102,San Antonio,SAS,Philadelphia,PHI
+646,201702030BOS,LA Lakers,LAL,107,Boston,BOS,113,Boston,BOS,LA Lakers,LAL
+647,201702030BRK,Indiana,IND,106,Brooklyn,BRK,97,Indiana,IND,Brooklyn,BRK
+648,201702030DEN,Milwaukee,MIL,117,Denver,DEN,121,Denver,DEN,Milwaukee,MIL
+649,201702030DET,Minnesota,MIN,108,Detroit,DET,116,Detroit,DET,Minnesota,MIN
+650,201702030HOU,Chicago,CHI,117,Houston,HOU,121,Houston,HOU,Chicago,CHI
+651,201702030OKC,Memphis,MEM,102,Oklahoma City,OKC,114,Oklahoma City,OKC,Memphis,MEM
+652,201702030ORL,Toronto,TOR,94,Orlando,ORL,102,Orlando,ORL,Toronto,TOR
+653,201702030POR,Dallas,DAL,108,Portland,POR,104,Dallas,DAL,Portland,POR
+654,201702040ATL,Orlando,ORL,86,Atlanta,ATL,113,Atlanta,ATL,Orlando,ORL
+655,201702040IND,Detroit,DET,84,Indiana,IND,105,Indiana,IND,Detroit,DET
+656,201702040MIA,Philadelphia,PHI,102,Miami,MIA,125,Miami,MIA,Philadelphia,PHI
+657,201702040MIN,Memphis,MEM,107,Minnesota,MIN,99,Memphis,MEM,Minnesota,MIN
+658,201702040NYK,Cleveland,CLE,111,New York,NYK,104,Cleveland,CLE,New York,NYK
+659,201702040PHO,Milwaukee,MIL,137,Phoenix,PHO,112,Milwaukee,MIL,Phoenix,PHO
+660,201702040SAC,Golden State,GSW,106,Sacramento,SAC,109,Sacramento,SAC,Golden State,GSW
+661,201702040SAS,Denver,DEN,97,San Antonio,SAS,121,San Antonio,SAS,Denver,DEN
+662,201702040UTA,Charlotte,CHO,98,Utah,UTA,105,Utah,UTA,Charlotte,CHO
+663,201702050BOS,LA Clippers,LAC,102,Boston,BOS,107,Boston,BOS,LA Clippers,LAC
+664,201702050BRK,Toronto,TOR,103,Brooklyn,BRK,95,Toronto,TOR,Brooklyn,BRK
+665,201702060ATL,Utah,UTA,120,Atlanta,ATL,95,Utah,UTA,Atlanta,ATL
+666,201702060DEN,Dallas,DAL,87,Denver,DEN,110,Denver,DEN,Dallas,DAL
+667,201702060DET,Philadelphia,PHI,96,Detroit,DET,113,Detroit,DET,Philadelphia,PHI
+668,201702060IND,Oklahoma City,OKC,90,Indiana,IND,93,Indiana,IND,Oklahoma City,OKC
+669,201702060MEM,San Antonio,SAS,74,Memphis,MEM,89,Memphis,MEM,San Antonio,SAS
+670,201702060MIN,Miami,MIA,115,Minnesota,MIN,113,Miami,MIA,Minnesota,MIN
+671,201702060NOP,Phoenix,PHO,106,New Orleans,NOP,111,New Orleans,NOP,Phoenix,PHO
+672,201702060NYK,LA Lakers,LAL,121,New York,NYK,107,LA Lakers,LAL,New York,NYK
+673,201702060SAC,Chicago,CHI,112,Sacramento,SAC,107,Chicago,CHI,Sacramento,SAC
+674,201702060TOR,LA Clippers,LAC,109,Toronto,TOR,118,Toronto,TOR,LA Clippers,LAC
+675,201702070CHO,Brooklyn,BRK,107,Charlotte,CHO,111,Charlotte,CHO,Brooklyn,BRK
+676,201702070DAL,Portland,POR,114,Dallas,DAL,113,Portland,POR,Dallas,DAL
+677,201702080ATL,Denver,DEN,106,Atlanta,ATL,117,Atlanta,ATL,Denver,DEN
+678,201702080BRK,Washington,WAS,114,Brooklyn,BRK,110,Washington,WAS,Brooklyn,BRK
+679,201702080DET,LA Lakers,LAL,102,Detroit,DET,121,Detroit,DET,LA Lakers,LAL
+680,201702080GSW,Chicago,CHI,92,Golden State,GSW,123,Golden State,GSW,Chicago,CHI
+681,201702080IND,Cleveland,CLE,132,Indiana,IND,117,Cleveland,CLE,Indiana,IND
+682,201702080MEM,Phoenix,PHO,91,Memphis,MEM,110,Memphis,MEM,Phoenix,PHO
+683,201702080MIL,Miami,MIA,106,Milwaukee,MIL,88,Miami,MIA,Milwaukee,MIL
+684,201702080MIN,Toronto,TOR,109,Minnesota,MIN,112,Minnesota,MIN,Toronto,TOR
+685,201702080NOP,Utah,UTA,127,New Orleans,NOP,94,Utah,UTA,New Orleans,NOP
+686,201702080NYK,LA Clippers,LAC,119,New York,NYK,115,LA Clippers,LAC,New York,NYK
+687,201702080PHI,San Antonio,SAS,111,Philadelphia,PHI,103,San Antonio,SAS,Philadelphia,PHI
+688,201702090CHO,Houston,HOU,107,Charlotte,CHO,95,Houston,HOU,Charlotte,CHO
+689,201702090DAL,Utah,UTA,105,Dallas,DAL,112,Dallas,DAL,Utah,UTA
+690,201702090OKC,Cleveland,CLE,109,Oklahoma City,OKC,118,Oklahoma City,OKC,Cleveland,CLE
+691,201702090ORL,Philadelphia,PHI,112,Orlando,ORL,111,Philadelphia,PHI,Orlando,ORL
+692,201702100BRK,Miami,MIA,108,Brooklyn,BRK,99,Miami,MIA,Brooklyn,BRK
+693,201702100DET,San Antonio,SAS,103,Detroit,DET,92,San Antonio,SAS,Detroit,DET
+694,201702100MEM,Golden State,GSW,122,Memphis,MEM,107,Golden State,GSW,Memphis,MEM
+695,201702100MIL,LA Lakers,LAL,122,Milwaukee,MIL,114,LA Lakers,LAL,Milwaukee,MIL
+696,201702100MIN,New Orleans,NOP,122,Minnesota,MIN,106,New Orleans,NOP,Minnesota,MIN
+697,201702100NYK,Denver,DEN,131,New York,NYK,123,Denver,DEN,New York,NYK
+698,201702100PHO,Chicago,CHI,97,Phoenix,PHO,115,Phoenix,PHO,Chicago,CHI
+699,201702100SAC,Atlanta,ATL,107,Sacramento,SAC,108,Sacramento,SAC,Atlanta,ATL
+700,201702110CHO,LA Clippers,LAC,107,Charlotte,CHO,102,LA Clippers,LAC,Charlotte,CHO
+701,201702110CLE,Denver,DEN,109,Cleveland,CLE,125,Cleveland,CLE,Denver,DEN
+702,201702110DAL,Orlando,ORL,80,Dallas,DAL,112,Dallas,DAL,Orlando,ORL
+703,201702110HOU,Phoenix,PHO,102,Houston,HOU,133,Houston,HOU,Phoenix,PHO
+704,201702110IND,Milwaukee,MIL,116,Indiana,IND,100,Milwaukee,MIL,Indiana,IND
+705,201702110OKC,Golden State,GSW,130,Oklahoma City,OKC,114,Golden State,GSW,Oklahoma City,OKC
+706,201702110PHI,Miami,MIA,109,Philadelphia,PHI,117,Philadelphia,PHI,Miami,MIA
+707,201702120MIN,Chicago,CHI,89,Minnesota,MIN,117,Minnesota,MIN,Chicago,CHI
+708,201702120NYK,San Antonio,SAS,90,New York,NYK,94,New York,NYK,San Antonio,SAS
+709,201702120SAC,New Orleans,NOP,99,Sacramento,SAC,105,Sacramento,SAC,New Orleans,NOP
+710,201702130BRK,Memphis,MEM,112,Brooklyn,BRK,103,Memphis,MEM,Brooklyn,BRK
+711,201702130CHO,Philadelphia,PHI,105,Charlotte,CHO,99,Philadelphia,PHI,Charlotte,CHO
+712,201702130DAL,Boston,BOS,111,Dallas,DAL,98,Boston,BOS,Dallas,DAL
+713,201702130DEN,Golden State,GSW,110,Denver,DEN,132,Denver,DEN,Golden State,GSW
+714,201702130IND,San Antonio,SAS,110,Indiana,IND,106,San Antonio,SAS,Indiana,IND
+715,201702130MIA,Orlando,ORL,116,Miami,MIA,107,Orlando,ORL,Miami,MIA
+716,201702130MIL,Detroit,DET,89,Milwaukee,MIL,102,Milwaukee,MIL,Detroit,DET
+717,201702130PHO,New Orleans,NOP,110,Phoenix,PHO,108,New Orleans,NOP,Phoenix,PHO
+718,201702130POR,Atlanta,ATL,109,Portland,POR,104,Atlanta,ATL,Portland,POR
+719,201702130UTA,LA Clippers,LAC,88,Utah,UTA,72,LA Clippers,LAC,Utah,UTA
+720,201702140CHI,Toronto,TOR,94,Chicago,CHI,105,Chicago,CHI,Toronto,TOR
+721,201702140LAL,Sacramento,SAC,97,LA Lakers,LAL,96,Sacramento,SAC,LA Lakers,LAL
+722,201702150BOS,Philadelphia,PHI,108,Boston,BOS,116,Boston,BOS,Philadelphia,PHI
+723,201702150BRK,Milwaukee,MIL,129,Brooklyn,BRK,125,Milwaukee,MIL,Brooklyn,BRK
+724,201702150CLE,Indiana,IND,104,Cleveland,CLE,113,Cleveland,CLE,Indiana,IND
+725,201702150DEN,Minnesota,MIN,112,Denver,DEN,99,Minnesota,MIN,Denver,DEN
+726,201702150DET,Dallas,DAL,91,Detroit,DET,98,Detroit,DET,Dallas,DAL
+727,201702150GSW,Sacramento,SAC,86,Golden State,GSW,109,Golden State,GSW,Sacramento,SAC
+728,201702150HOU,Miami,MIA,117,Houston,HOU,109,Miami,MIA,Houston,HOU
+729,201702150LAC,Atlanta,ATL,84,LA Clippers,LAC,99,LA Clippers,LAC,Atlanta,ATL
+730,201702150MEM,New Orleans,NOP,95,Memphis,MEM,91,New Orleans,NOP,Memphis,MEM
+731,201702150OKC,New York,NYK,105,Oklahoma City,OKC,116,Oklahoma City,OKC,New York,NYK
+732,201702150ORL,San Antonio,SAS,107,Orlando,ORL,79,San Antonio,SAS,Orlando,ORL
+733,201702150PHO,LA Lakers,LAL,101,Phoenix,PHO,137,Phoenix,PHO,LA Lakers,LAL
+734,201702150TOR,Charlotte,CHO,85,Toronto,TOR,90,Toronto,TOR,Charlotte,CHO
+735,201702160CHI,Boston,BOS,103,Chicago,CHI,104,Chicago,CHI,Boston,BOS
+736,201702230CLE,New York,NYK,104,Cleveland,CLE,119,Cleveland,CLE,New York,NYK
+737,201702230DET,Charlotte,CHO,108,Detroit,DET,114,Detroit,DET,Charlotte,CHO
+738,201702230GSW,LA Clippers,LAC,113,Golden State,GSW,123,Golden State,GSW,LA Clippers,LAC
+739,201702230NOP,Houston,HOU,129,New Orleans,NOP,99,Houston,HOU,New Orleans,NOP
+740,201702230ORL,Portland,POR,112,Orlando,ORL,103,Portland,POR,Orlando,ORL
+741,201702240ATL,Miami,MIA,108,Atlanta,ATL,90,Miami,MIA,Atlanta,ATL
+742,201702240CHI,Phoenix,PHO,121,Chicago,CHI,128,Chicago,CHI,Phoenix,PHO
+743,201702240DEN,Brooklyn,BRK,109,Denver,DEN,129,Denver,DEN,Brooklyn,BRK
+744,201702240IND,Memphis,MEM,92,Indiana,IND,102,Indiana,IND,Memphis,MEM
+745,201702240LAC,San Antonio,SAS,105,LA Clippers,LAC,97,San Antonio,SAS,LA Clippers,LAC
+746,201702240MIL,Utah,UTA,109,Milwaukee,MIL,95,Utah,UTA,Milwaukee,MIL
+747,201702240MIN,Dallas,DAL,84,Minnesota,MIN,97,Minnesota,MIN,Dallas,DAL
+748,201702240OKC,LA Lakers,LAL,93,Oklahoma City,OKC,110,Oklahoma City,OKC,LA Lakers,LAL
+749,201702240PHI,Washington,WAS,112,Philadelphia,PHI,120,Philadelphia,PHI,Washington,WAS
+750,201702250CLE,Chicago,CHI,117,Cleveland,CLE,99,Chicago,CHI,Cleveland,CLE
+751,201702250DAL,New Orleans,NOP,83,Dallas,DAL,96,Dallas,DAL,New Orleans,NOP
+752,201702250GSW,Brooklyn,BRK,95,Golden State,GSW,112,Golden State,GSW,Brooklyn,BRK
+753,201702250HOU,Minnesota,MIN,130,Houston,HOU,142,Houston,HOU,Minnesota,MIN
+754,201702250MIA,Indiana,IND,95,Miami,MIA,113,Miami,MIA,Indiana,IND
+755,201702250NYK,Philadelphia,PHI,109,New York,NYK,110,New York,NYK,Philadelphia,PHI
+756,201702250ORL,Atlanta,ATL,86,Orlando,ORL,105,Orlando,ORL,Atlanta,ATL
+757,201702260DEN,Memphis,MEM,105,Denver,DEN,98,Memphis,MEM,Denver,DEN
+758,201702260DET,Boston,BOS,104,Detroit,DET,98,Boston,BOS,Detroit,DET
+759,201702260LAC,Charlotte,CHO,121,LA Clippers,LAC,124,LA Clippers,LAC,Charlotte,CHO
+760,201702260LAL,San Antonio,SAS,119,LA Lakers,LAL,98,San Antonio,SAS,LA Lakers,LAL
+761,201702260MIL,Phoenix,PHO,96,Milwaukee,MIL,100,Milwaukee,MIL,Phoenix,PHO
+762,201702260OKC,New Orleans,NOP,110,Oklahoma City,OKC,118,Oklahoma City,OKC,New Orleans,NOP
+763,201702260TOR,Portland,POR,106,Toronto,TOR,112,Toronto,TOR,Portland,POR
+764,201702270BOS,Atlanta,ATL,114,Boston,BOS,98,Atlanta,ATL,Boston,BOS
+765,201702270CLE,Milwaukee,MIL,95,Cleveland,CLE,102,Cleveland,CLE,Milwaukee,MIL
+766,201702270DAL,Miami,MIA,89,Dallas,DAL,96,Dallas,DAL,Miami,MIA
+767,201702270HOU,Indiana,IND,117,Houston,HOU,108,Indiana,IND,Houston,HOU
+768,201702270NYK,Toronto,TOR,92,New York,NYK,91,Toronto,TOR,New York,NYK
+769,201702270PHI,Golden State,GSW,119,Philadelphia,PHI,108,Golden State,GSW,Philadelphia,PHI
+770,201702280CHI,Denver,DEN,125,Chicago,CHI,107,Denver,DEN,Chicago,CHI
+771,201702280DET,Portland,POR,113,Detroit,DET,120,Detroit,DET,Portland,POR
+772,201702280LAL,Charlotte,CHO,109,LA Lakers,LAL,104,Charlotte,CHO,LA Lakers,LAL
+773,201702280MEM,Phoenix,PHO,112,Memphis,MEM,130,Memphis,MEM,Phoenix,PHO
+774,201702280OKC,Utah,UTA,106,Oklahoma City,OKC,109,Oklahoma City,OKC,Utah,UTA
+775,201703010ATL,Dallas,DAL,95,Atlanta,ATL,100,Atlanta,ATL,Dallas,DAL
+776,201703010BOS,Cleveland,CLE,99,Boston,BOS,103,Boston,BOS,Cleveland,CLE
+777,201703010LAC,Houston,HOU,122,LA Clippers,LAC,103,Houston,HOU,LA Clippers,LAC
+778,201703010MIA,Philadelphia,PHI,98,Miami,MIA,125,Miami,MIA,Philadelphia,PHI
+779,201703010MIL,Denver,DEN,110,Milwaukee,MIL,98,Denver,DEN,Milwaukee,MIL
+780,201703010NOP,Detroit,DET,86,New Orleans,NOP,109,New Orleans,NOP,Detroit,DET
+781,201703010ORL,New York,NYK,101,Orlando,ORL,90,New York,NYK,Orlando,ORL
+782,201703010SAC,Brooklyn,BRK,109,Sacramento,SAC,100,Brooklyn,BRK,Sacramento,SAC
+783,201703010SAS,Indiana,IND,99,San Antonio,SAS,100,San Antonio,SAS,Indiana,IND
+784,201703010TOR,Washington,WAS,105,Toronto,TOR,96,Washington,WAS,Toronto,TOR
+785,201703020CHI,Golden State,GSW,87,Chicago,CHI,94,Chicago,CHI,Golden State,GSW
+786,201703020PHO,Charlotte,CHO,103,Phoenix,PHO,120,Phoenix,PHO,Charlotte,CHO
+787,201703030ATL,Cleveland,CLE,135,Atlanta,ATL,130,Cleveland,CLE,Atlanta,ATL
+788,201703030DAL,Memphis,MEM,100,Dallas,DAL,104,Dallas,DAL,Memphis,MEM
+789,201703030LAL,Boston,BOS,115,LA Lakers,LAL,95,Boston,BOS,LA Lakers,LAL
+790,201703030MIL,LA Clippers,LAC,101,Milwaukee,MIL,112,Milwaukee,MIL,LA Clippers,LAC
+791,201703030NOP,San Antonio,SAS,101,New Orleans,NOP,98,San Antonio,SAS,New Orleans,NOP
+792,201703030ORL,Miami,MIA,99,Orlando,ORL,110,Orlando,ORL,Miami,MIA
+793,201703030PHI,New York,NYK,102,Philadelphia,PHI,105,Philadelphia,PHI,New York,NYK
+794,201703030PHO,Oklahoma City,OKC,111,Phoenix,PHO,118,Phoenix,PHO,Oklahoma City,OKC
+795,201703030UTA,Brooklyn,BRK,97,Utah,UTA,112,Utah,UTA,Brooklyn,BRK
+796,201703040CHI,LA Clippers,LAC,101,Chicago,CHI,91,LA Clippers,LAC,Chicago,CHI
+797,201703040DEN,Charlotte,CHO,112,Denver,DEN,102,Charlotte,CHO,Denver,DEN
+798,201703040HOU,Memphis,MEM,108,Houston,HOU,123,Houston,HOU,Memphis,MEM
+799,201703040MIA,Cleveland,CLE,92,Miami,MIA,120,Miami,MIA,Cleveland,CLE
+800,201703040MIL,Toronto,TOR,94,Milwaukee,MIL,101,Milwaukee,MIL,Toronto,TOR
+801,201703040PHI,Detroit,DET,136,Philadelphia,PHI,106,Detroit,DET,Philadelphia,PHI
+802,201703040POR,Brooklyn,BRK,116,Portland,POR,130,Portland,POR,Brooklyn,BRK
+803,201703050ATL,Indiana,IND,97,Atlanta,ATL,96,Indiana,IND,Atlanta,ATL
+804,201703050DAL,Oklahoma City,OKC,89,Dallas,DAL,104,Dallas,DAL,Oklahoma City,OKC
+805,201703050LAL,New Orleans,NOP,105,LA Lakers,LAL,97,New Orleans,NOP,LA Lakers,LAL
+806,201703050NYK,Golden State,GSW,112,New York,NYK,105,Golden State,GSW,New York,NYK
+807,201703050PHO,Boston,BOS,106,Phoenix,PHO,109,Phoenix,PHO,Boston,BOS
+808,201703050SAC,Utah,UTA,110,Sacramento,SAC,109,Utah,UTA,Sacramento,SAC
+809,201703060ATL,Golden State,GSW,119,Atlanta,ATL,111,Golden State,GSW,Atlanta,ATL
+810,201703060CHO,Indiana,IND,88,Charlotte,CHO,100,Charlotte,CHO,Indiana,IND
+811,201703060CLE,Miami,MIA,106,Cleveland,CLE,98,Miami,MIA,Cleveland,CLE
+812,201703060DEN,Sacramento,SAC,96,Denver,DEN,108,Denver,DEN,Sacramento,SAC
+813,201703060DET,Chicago,CHI,95,Detroit,DET,109,Detroit,DET,Chicago,CHI
+814,201703060LAC,Boston,BOS,102,LA Clippers,LAC,116,LA Clippers,LAC,Boston,BOS
+815,201703060MEM,Brooklyn,BRK,122,Memphis,MEM,109,Brooklyn,BRK,Memphis,MEM
+816,201703060ORL,New York,NYK,113,Orlando,ORL,105,New York,NYK,Orlando,ORL
+817,201703060PHI,Milwaukee,MIL,112,Philadelphia,PHI,98,Milwaukee,MIL,Philadelphia,PHI
+818,201703060SAS,Houston,HOU,110,San Antonio,SAS,112,San Antonio,SAS,Houston,HOU
+819,201703070DAL,LA Lakers,LAL,111,Dallas,DAL,122,Dallas,DAL,LA Lakers,LAL
+820,201703070OKC,Portland,POR,126,Oklahoma City,OKC,121,Portland,POR,Oklahoma City,OKC
+821,201703080ATL,Brooklyn,BRK,105,Atlanta,ATL,110,Atlanta,ATL,Brooklyn,BRK
+822,201703080DEN,Washington,WAS,123,Denver,DEN,113,Washington,WAS,Denver,DEN
+823,201703080GSW,Boston,BOS,99,Golden State,GSW,86,Boston,BOS,Golden State,GSW
+824,201703080HOU,Utah,UTA,115,Houston,HOU,108,Utah,UTA,Houston,HOU
+825,201703080IND,Detroit,DET,98,Indiana,IND,115,Indiana,IND,Detroit,DET
+826,201703080MIA,Charlotte,CHO,101,Miami,MIA,108,Miami,MIA,Charlotte,CHO
+827,201703080MIL,New York,NYK,93,Milwaukee,MIL,104,Milwaukee,MIL,New York,NYK
+828,201703080MIN,LA Clippers,LAC,91,Minnesota,MIN,107,Minnesota,MIN,LA Clippers,LAC
+829,201703080NOP,Toronto,TOR,94,New Orleans,NOP,87,Toronto,TOR,New Orleans,NOP
+830,201703080ORL,Chicago,CHI,91,Orlando,ORL,98,Orlando,ORL,Chicago,CHI
+831,201703090DET,Cleveland,CLE,101,Detroit,DET,106,Detroit,DET,Cleveland,CLE
+832,201703090MEM,LA Clippers,LAC,114,Memphis,MEM,98,LA Clippers,LAC,Memphis,MEM
+833,201703090OKC,San Antonio,SAS,92,Oklahoma City,OKC,102,Oklahoma City,OKC,San Antonio,SAS
+834,201703090PHO,LA Lakers,LAL,122,Phoenix,PHO,110,LA Lakers,LAL,Phoenix,PHO
+835,201703100ATL,Toronto,TOR,99,Atlanta,ATL,105,Atlanta,ATL,Toronto,TOR
+836,201703100CHI,Houston,HOU,115,Chicago,CHI,94,Houston,HOU,Chicago,CHI
+837,201703100CHO,Orlando,ORL,81,Charlotte,CHO,121,Charlotte,CHO,Orlando,ORL
+838,201703100DAL,Brooklyn,BRK,96,Dallas,DAL,105,Dallas,DAL,Brooklyn,BRK
+839,201703100DEN,Boston,BOS,99,Denver,DEN,119,Denver,DEN,Boston,BOS
+840,201703100MIL,Indiana,IND,85,Milwaukee,MIL,99,Milwaukee,MIL,Indiana,IND
+841,201703100MIN,Golden State,GSW,102,Minnesota,MIN,103,Minnesota,MIN,Golden State,GSW
+842,201703110CHO,New Orleans,NOP,125,Charlotte,CHO,122,New Orleans,NOP,Charlotte,CHO
+843,201703110DAL,Phoenix,PHO,100,Dallas,DAL,98,Phoenix,PHO,Dallas,DAL
+844,201703110DET,New York,NYK,92,Detroit,DET,112,Detroit,DET,New York,NYK
+845,201703110LAC,Philadelphia,PHI,100,LA Clippers,LAC,112,LA Clippers,LAC,Philadelphia,PHI
+846,201703110MEM,Atlanta,ATL,107,Memphis,MEM,90,Atlanta,ATL,Memphis,MEM
+847,201703110MIA,Toronto,TOR,89,Miami,MIA,104,Miami,MIA,Toronto,TOR
+848,201703110MIL,Minnesota,MIN,95,Milwaukee,MIL,102,Milwaukee,MIL,Minnesota,MIN
+849,201703110OKC,Utah,UTA,104,Oklahoma City,OKC,112,Oklahoma City,OKC,Utah,UTA
+850,201703110ORL,Cleveland,CLE,116,Orlando,ORL,104,Cleveland,CLE,Orlando,ORL
+851,201703110POR,Washington,WAS,125,Portland,POR,124,Washington,WAS,Portland,POR
+852,201703110SAC,Denver,DEN,105,Sacramento,SAC,92,Denver,DEN,Sacramento,SAC
+853,201703120BOS,Chicago,CHI,80,Boston,BOS,100,Boston,BOS,Chicago,CHI
+854,201703120BRK,New York,NYK,112,Brooklyn,BRK,120,Brooklyn,BRK,New York,NYK
+855,201703120HOU,Cleveland,CLE,112,Houston,HOU,117,Houston,HOU,Cleveland,CLE
+856,201703120IND,Miami,MIA,98,Indiana,IND,102,Indiana,IND,Miami,MIA
+857,201703120LAL,Philadelphia,PHI,118,LA Lakers,LAL,116,Philadelphia,PHI,LA Lakers,LAL
+858,201703130CHO,Chicago,CHI,115,Charlotte,CHO,109,Chicago,CHI,Charlotte,CHO
+859,201703130DEN,LA Lakers,LAL,101,Denver,DEN,129,Denver,DEN,LA Lakers,LAL
+860,201703130MEM,Milwaukee,MIL,93,Memphis,MEM,113,Memphis,MEM,Milwaukee,MIL
+861,201703130MIN,Washington,WAS,104,Minnesota,MIN,119,Minnesota,MIN,Washington,WAS
+862,201703130SAC,Orlando,ORL,115,Sacramento,SAC,120,Sacramento,SAC,Orlando,ORL
+863,201703130SAS,Atlanta,ATL,99,San Antonio,SAS,107,San Antonio,SAS,Atlanta,ATL
+864,201703130TOR,Dallas,DAL,78,Toronto,TOR,100,Toronto,TOR,Dallas,DAL
+865,201703140BRK,Oklahoma City,OKC,122,Brooklyn,BRK,104,Oklahoma City,OKC,Brooklyn,BRK
+866,201703140CLE,Detroit,DET,96,Cleveland,CLE,128,Cleveland,CLE,Detroit,DET
+867,201703140GSW,Philadelphia,PHI,104,Golden State,GSW,106,Golden State,GSW,Philadelphia,PHI
+868,201703140NOP,Portland,POR,77,New Orleans,NOP,100,New Orleans,NOP,Portland,POR
+869,201703150BOS,Minnesota,MIN,104,Boston,BOS,117,Boston,BOS,Minnesota,MIN
+870,201703150CHI,Memphis,MEM,98,Chicago,CHI,91,Memphis,MEM,Chicago,CHI
+871,201703150DET,Utah,UTA,97,Detroit,DET,83,Utah,UTA,Detroit,DET
+872,201703150HOU,LA Lakers,LAL,100,Houston,HOU,139,Houston,HOU,LA Lakers,LAL
+873,201703150IND,Charlotte,CHO,77,Indiana,IND,98,Indiana,IND,Charlotte,CHO
+874,201703150LAC,Milwaukee,MIL,97,LA Clippers,LAC,96,Milwaukee,MIL,LA Clippers,LAC
+875,201703150MIA,New Orleans,NOP,112,Miami,MIA,120,Miami,MIA,New Orleans,NOP
+876,201703150PHO,Sacramento,SAC,107,Phoenix,PHO,101,Sacramento,SAC,Phoenix,PHO
+877,201703150SAS,Portland,POR,110,San Antonio,SAS,106,Portland,POR,San Antonio,SAS
+878,201703160ATL,Memphis,MEM,103,Atlanta,ATL,91,Memphis,MEM,Atlanta,ATL
+879,201703160CLE,Utah,UTA,83,Cleveland,CLE,91,Cleveland,CLE,Utah,UTA
+880,201703160DEN,LA Clippers,LAC,114,Denver,DEN,129,Denver,DEN,LA Clippers,LAC
+881,201703160GSW,Orlando,ORL,92,Golden State,GSW,122,Golden State,GSW,Orlando,ORL
+882,201703160NYK,Brooklyn,BRK,121,New York,NYK,110,Brooklyn,BRK,New York,NYK
+883,201703170BRK,Boston,BOS,98,Brooklyn,BRK,95,Boston,BOS,Brooklyn,BRK
+884,201703170DET,Toronto,TOR,87,Detroit,DET,75,Toronto,TOR,Detroit,DET
+885,201703170LAL,Milwaukee,MIL,107,LA Lakers,LAL,103,Milwaukee,MIL,LA Lakers,LAL
+886,201703170MIA,Minnesota,MIN,105,Miami,MIA,123,Miami,MIA,Minnesota,MIN
+887,201703170NOP,Houston,HOU,112,New Orleans,NOP,128,New Orleans,NOP,Houston,HOU
+888,201703170PHI,Dallas,DAL,74,Philadelphia,PHI,116,Philadelphia,PHI,Dallas,DAL
+889,201703170PHO,Orlando,ORL,109,Phoenix,PHO,103,Orlando,ORL,Phoenix,PHO
+890,201703180ATL,Portland,POR,113,Atlanta,ATL,97,Portland,POR,Atlanta,ATL
+891,201703180CHI,Utah,UTA,86,Chicago,CHI,95,Chicago,CHI,Utah,UTA
+892,201703180CHO,Washington,WAS,93,Charlotte,CHO,98,Charlotte,CHO,Washington,WAS
+893,201703180DEN,Houston,HOU,109,Denver,DEN,105,Houston,HOU,Denver,DEN
+894,201703180GSW,Milwaukee,MIL,92,Golden State,GSW,117,Golden State,GSW,Milwaukee,MIL
+895,201703180LAC,Cleveland,CLE,78,LA Clippers,LAC,108,LA Clippers,LAC,Cleveland,CLE
+896,201703180MEM,San Antonio,SAS,96,Memphis,MEM,104,Memphis,MEM,San Antonio,SAS
+897,201703190BRK,Dallas,DAL,111,Brooklyn,BRK,104,Dallas,DAL,Brooklyn,BRK
+898,201703190DET,Phoenix,PHO,95,Detroit,DET,112,Detroit,DET,Phoenix,PHO
+899,201703190LAL,Cleveland,CLE,125,LA Lakers,LAL,120,Cleveland,CLE,LA Lakers,LAL
+900,201703190MIA,Portland,POR,115,Miami,MIA,104,Portland,POR,Miami,MIA
+901,201703190NOP,Minnesota,MIN,109,New Orleans,NOP,123,New Orleans,NOP,Minnesota,MIN
+902,201703190PHI,Boston,BOS,99,Philadelphia,PHI,105,Philadelphia,PHI,Boston,BOS
+903,201703190SAS,Sacramento,SAC,102,San Antonio,SAS,118,San Antonio,SAS,Sacramento,SAC
+904,201703200BOS,Washington,WAS,102,Boston,BOS,110,Boston,BOS,Washington,WAS
+905,201703200CHO,Atlanta,ATL,90,Charlotte,CHO,105,Charlotte,CHO,Atlanta,ATL
+906,201703200HOU,Denver,DEN,124,Houston,HOU,125,Houston,HOU,Denver,DEN
+907,201703200IND,Utah,UTA,100,Indiana,IND,107,Indiana,IND,Utah,UTA
+908,201703200LAC,New York,NYK,105,LA Clippers,LAC,114,LA Clippers,LAC,New York,NYK
+909,201703200OKC,Golden State,GSW,111,Oklahoma City,OKC,95,Golden State,GSW,Oklahoma City,OKC
+910,201703210BRK,Detroit,DET,96,Brooklyn,BRK,98,Brooklyn,BRK,Detroit,DET
+911,201703210DAL,Golden State,GSW,112,Dallas,DAL,87,Golden State,GSW,Dallas,DAL
+912,201703210LAL,LA Clippers,LAC,133,LA Lakers,LAL,109,LA Clippers,LAC,LA Lakers,LAL
+913,201703210MIA,Phoenix,PHO,97,Miami,MIA,112,Miami,MIA,Phoenix,PHO
+914,201703210MIN,San Antonio,SAS,100,Minnesota,MIN,93,San Antonio,SAS,Minnesota,MIN
+915,201703210NOP,Memphis,MEM,82,New Orleans,NOP,95,New Orleans,NOP,Memphis,MEM
+916,201703210POR,Milwaukee,MIL,93,Portland,POR,90,Milwaukee,MIL,Portland,POR
+917,201703220BOS,Indiana,IND,100,Boston,BOS,109,Boston,BOS,Indiana,IND
+918,201703220CHI,Detroit,DET,95,Chicago,CHI,117,Chicago,CHI,Detroit,DET
+919,201703220DEN,Cleveland,CLE,113,Denver,DEN,126,Denver,DEN,Cleveland,CLE
+920,201703220OKC,Philadelphia,PHI,97,Oklahoma City,OKC,122,Oklahoma City,OKC,Philadelphia,PHI
+921,201703220ORL,Charlotte,CHO,109,Orlando,ORL,102,Charlotte,CHO,Orlando,ORL
+922,201703220SAC,Milwaukee,MIL,116,Sacramento,SAC,98,Milwaukee,MIL,Sacramento,SAC
+923,201703220UTA,New York,NYK,101,Utah,UTA,108,Utah,UTA,New York,NYK
+924,201703230BRK,Phoenix,PHO,98,Brooklyn,BRK,126,Brooklyn,BRK,Phoenix,PHO
+925,201703230DAL,LA Clippers,LAC,95,Dallas,DAL,97,Dallas,DAL,LA Clippers,LAC
+926,201703230MIA,Toronto,TOR,101,Miami,MIA,84,Toronto,TOR,Miami,MIA
+927,201703230POR,New York,NYK,95,Portland,POR,110,Portland,POR,New York,NYK
+928,201703240BOS,Phoenix,PHO,120,Boston,BOS,130,Boston,BOS,Phoenix,PHO
+929,201703240CHI,Philadelphia,PHI,117,Chicago,CHI,107,Philadelphia,PHI,Chicago,CHI
+930,201703240CHO,Cleveland,CLE,112,Charlotte,CHO,105,Cleveland,CLE,Charlotte,CHO
+931,201703240GSW,Sacramento,SAC,100,Golden State,GSW,114,Golden State,GSW,Sacramento,SAC
+932,201703240HOU,New Orleans,NOP,107,Houston,HOU,117,Houston,HOU,New Orleans,NOP
+933,201703240IND,Denver,DEN,125,Indiana,IND,117,Denver,DEN,Indiana,IND
+934,201703240LAL,Minnesota,MIN,119,LA Lakers,LAL,130,LA Lakers,LAL,Minnesota,MIN
+935,201703240MIL,Atlanta,ATL,97,Milwaukee,MIL,100,Milwaukee,MIL,Atlanta,ATL
+936,201703240ORL,Detroit,DET,87,Orlando,ORL,115,Orlando,ORL,Detroit,DET
+937,201703250CLE,Washington,WAS,127,Cleveland,CLE,115,Washington,WAS,Cleveland,CLE
+938,201703250DAL,Toronto,TOR,94,Dallas,DAL,86,Toronto,TOR,Dallas,DAL
+939,201703250LAC,Utah,UTA,95,LA Clippers,LAC,108,LA Clippers,LAC,Utah,UTA
+940,201703250POR,Minnesota,MIN,100,Portland,POR,112,Portland,POR,Minnesota,MIN
+941,201703260ATL,Brooklyn,BRK,107,Atlanta,ATL,92,Brooklyn,BRK,Atlanta,ATL
+942,201703260BOS,Miami,MIA,108,Boston,BOS,112,Boston,BOS,Miami,MIA
+943,201703260CHO,Phoenix,PHO,106,Charlotte,CHO,120,Charlotte,CHO,Phoenix,PHO
+944,201703260DEN,New Orleans,NOP,115,Denver,DEN,90,New Orleans,NOP,Denver,DEN
+945,201703260GSW,Memphis,MEM,94,Golden State,GSW,106,Golden State,GSW,Memphis,MEM
+946,201703260HOU,Oklahoma City,OKC,125,Houston,HOU,137,Houston,HOU,Oklahoma City,OKC
+947,201703260IND,Philadelphia,PHI,94,Indiana,IND,107,Indiana,IND,Philadelphia,PHI
+948,201703260LAC,Sacramento,SAC,98,LA Clippers,LAC,97,Sacramento,SAC,LA Clippers,LAC
+949,201703260LAL,Portland,POR,97,LA Lakers,LAL,81,Portland,POR,LA Lakers,LAL
+950,201703270DAL,Oklahoma City,OKC,92,Dallas,DAL,91,Oklahoma City,OKC,Dallas,DAL
+951,201703270NYK,Detroit,DET,95,New York,NYK,109,New York,NYK,Detroit,DET
+952,201703270SAC,Memphis,MEM,90,Sacramento,SAC,91,Sacramento,SAC,Memphis,MEM
+953,201703270SAS,Cleveland,CLE,74,San Antonio,SAS,103,San Antonio,SAS,Cleveland,CLE
+954,201703270TOR,Orlando,ORL,112,Toronto,TOR,131,Toronto,TOR,Orlando,ORL
+955,201703280ATL,Phoenix,PHO,91,Atlanta,ATL,95,Atlanta,ATL,Phoenix,PHO
+956,201703280BRK,Philadelphia,PHI,106,Brooklyn,BRK,101,Philadelphia,PHI,Brooklyn,BRK
+957,201703280CHO,Milwaukee,MIL,118,Charlotte,CHO,108,Milwaukee,MIL,Charlotte,CHO
+958,201703280DET,Miami,MIA,97,Detroit,DET,96,Miami,MIA,Detroit,DET
+959,201703280HOU,Golden State,GSW,113,Houston,HOU,106,Golden State,GSW,Houston,HOU
+960,201703280IND,Minnesota,MIN,115,Indiana,IND,114,Minnesota,MIN,Indiana,IND
+961,201703280LAL,Washington,WAS,119,LA Lakers,LAL,108,Washington,WAS,LA Lakers,LAL
+962,201703290BOS,Milwaukee,MIL,103,Boston,BOS,100,Milwaukee,MIL,Boston,BOS
+963,201703290LAC,Washington,WAS,124,LA Clippers,LAC,133,LA Clippers,LAC,Washington,WAS
+964,201703290MEM,Indiana,IND,97,Memphis,MEM,110,Memphis,MEM,Indiana,IND
+965,201703290NOP,Dallas,DAL,118,New Orleans,NOP,121,New Orleans,NOP,Dallas,DAL
+966,201703290NYK,Miami,MIA,105,New York,NYK,88,Miami,MIA,New York,NYK
+967,201703290ORL,Oklahoma City,OKC,114,Orlando,ORL,106,Oklahoma City,OKC,Orlando,ORL
+968,201703290PHI,Atlanta,ATL,99,Philadelphia,PHI,92,Atlanta,ATL,Philadelphia,PHI
+969,201703290SAC,Utah,UTA,112,Sacramento,SAC,82,Utah,UTA,Sacramento,SAC
+970,201703290SAS,Golden State,GSW,110,San Antonio,SAS,98,Golden State,GSW,San Antonio,SAS
+971,201703300CHI,Cleveland,CLE,93,Chicago,CHI,99,Chicago,CHI,Cleveland,CLE
+972,201703300DET,Brooklyn,BRK,89,Detroit,DET,90,Detroit,DET,Brooklyn,BRK
+973,201703300MIN,LA Lakers,LAL,104,Minnesota,MIN,119,Minnesota,MIN,LA Lakers,LAL
+974,201703300PHO,LA Clippers,LAC,124,Phoenix,PHO,118,LA Clippers,LAC,Phoenix,PHO
+975,201703310BOS,Orlando,ORL,116,Boston,BOS,117,Boston,BOS,Orlando,ORL
+976,201703310CHO,Denver,DEN,114,Charlotte,CHO,122,Charlotte,CHO,Denver,DEN
+977,201703310CLE,Philadelphia,PHI,105,Cleveland,CLE,122,Cleveland,CLE,Philadelphia,PHI
+978,201703310GSW,Houston,HOU,98,Golden State,GSW,107,Golden State,GSW,Houston,HOU
+979,201703310MEM,Dallas,DAL,90,Memphis,MEM,99,Memphis,MEM,Dallas,DAL
+980,201703310MIA,New York,NYK,98,Miami,MIA,94,New York,NYK,Miami,MIA
+981,201703310MIL,Detroit,DET,105,Milwaukee,MIL,108,Milwaukee,MIL,Detroit,DET
+982,201703310NOP,Sacramento,SAC,89,New Orleans,NOP,117,New Orleans,NOP,Sacramento,SAC
+983,201703310OKC,San Antonio,SAS,100,Oklahoma City,OKC,95,San Antonio,SAS,Oklahoma City,OKC
+984,201703310TOR,Indiana,IND,100,Toronto,TOR,111,Toronto,TOR,Indiana,IND
+985,201704010BRK,Orlando,ORL,111,Brooklyn,BRK,121,Brooklyn,BRK,Orlando,ORL
+986,201704010CHI,Atlanta,ATL,104,Chicago,CHI,106,Chicago,CHI,Atlanta,ATL
+987,201704010LAC,LA Lakers,LAL,104,LA Clippers,LAC,115,LA Clippers,LAC,LA Lakers,LAL
+988,201704010MIN,Sacramento,SAC,123,Minnesota,MIN,117,Sacramento,SAC,Minnesota,MIN
+989,201704020BRK,Atlanta,ATL,82,Brooklyn,BRK,91,Brooklyn,BRK,Atlanta,ATL
+990,201704020CLE,Indiana,IND,130,Cleveland,CLE,135,Cleveland,CLE,Indiana,IND
+991,201704020GSW,Washington,WAS,115,Golden State,GSW,139,Golden State,GSW,Washington,WAS
+992,201704020LAL,Memphis,MEM,103,LA Lakers,LAL,108,LA Lakers,LAL,Memphis,MEM
+993,201704020MIA,Denver,DEN,116,Miami,MIA,113,Denver,DEN,Miami,MIA
+994,201704020MIL,Dallas,DAL,109,Milwaukee,MIL,105,Dallas,DAL,Milwaukee,MIL
+995,201704020NOP,Chicago,CHI,117,New Orleans,NOP,110,Chicago,CHI,New Orleans,NOP
+996,201704020NYK,Boston,BOS,110,New York,NYK,94,Boston,BOS,New York,NYK
+997,201704020OKC,Charlotte,CHO,113,Oklahoma City,OKC,101,Charlotte,CHO,Oklahoma City,OKC
+998,201704020PHO,Houston,HOU,123,Phoenix,PHO,116,Houston,HOU,Phoenix,PHO
+999,201704020SAS,Utah,UTA,103,San Antonio,SAS,109,San Antonio,SAS,Utah,UTA
+1000,201704040CLE,Orlando,ORL,102,Cleveland,CLE,122,Cleveland,CLE,Orlando,ORL
+1001,201704040GSW,Minnesota,MIN,107,Golden State,GSW,121,Golden State,GSW,Minnesota,MIN
+1002,201704040IND,Toronto,TOR,90,Indiana,IND,108,Indiana,IND,Toronto,TOR
+1003,201704040NOP,Denver,DEN,134,New Orleans,NOP,131,Denver,DEN,New Orleans,NOP
+1004,201704040NYK,Chicago,CHI,91,New York,NYK,100,New York,NYK,Chicago,CHI
+1005,201704040OKC,Milwaukee,MIL,79,Oklahoma City,OKC,110,Oklahoma City,OKC,Milwaukee,MIL
+1006,201704040PHI,Brooklyn,BRK,141,Philadelphia,PHI,118,Brooklyn,BRK,Philadelphia,PHI
+1007,201704040SAC,Dallas,DAL,87,Sacramento,SAC,98,Sacramento,SAC,Dallas,DAL
+1008,201704040SAS,Memphis,MEM,89,San Antonio,SAS,95,San Antonio,SAS,Memphis,MEM
+1009,201704040UTA,Portland,POR,87,Utah,UTA,106,Utah,UTA,Portland,POR
+1010,201704050BOS,Cleveland,CLE,114,Boston,BOS,91,Cleveland,CLE,Boston,BOS
+1011,201704050CHO,Miami,MIA,112,Charlotte,CHO,99,Miami,MIA,Charlotte,CHO
+1012,201704050DET,Toronto,TOR,105,Detroit,DET,102,Toronto,TOR,Detroit,DET
+1013,201704050HOU,Denver,DEN,104,Houston,HOU,110,Houston,HOU,Denver,DEN
+1014,201704050LAC,Dallas,DAL,101,LA Clippers,LAC,112,LA Clippers,LAC,Dallas,DAL
+1015,201704050MEM,Oklahoma City,OKC,103,Memphis,MEM,100,Oklahoma City,OKC,Memphis,MEM
+1016,201704050PHO,Golden State,GSW,120,Phoenix,PHO,111,Golden State,GSW,Phoenix,PHO
+1017,201704060ATL,Boston,BOS,116,Atlanta,ATL,123,Atlanta,ATL,Boston,BOS
+1018,201704060IND,Milwaukee,MIL,89,Indiana,IND,104,Indiana,IND,Milwaukee,MIL
+1019,201704060NYK,Washington,WAS,106,New York,NYK,103,Washington,WAS,New York,NYK
+1020,201704060ORL,Brooklyn,BRK,107,Orlando,ORL,115,Orlando,ORL,Brooklyn,BRK
+1021,201704060PHI,Chicago,CHI,102,Philadelphia,PHI,90,Chicago,CHI,Philadelphia,PHI
+1022,201704070CLE,Atlanta,ATL,114,Cleveland,CLE,100,Atlanta,ATL,Cleveland,CLE
+1023,201704070DAL,San Antonio,SAS,102,Dallas,DAL,89,San Antonio,SAS,Dallas,DAL
+1024,201704070DEN,New Orleans,NOP,106,Denver,DEN,122,Denver,DEN,New Orleans,NOP
+1025,201704070HOU,Detroit,DET,114,Houston,HOU,109,Detroit,DET,Houston,HOU
+1026,201704070LAL,Sacramento,SAC,94,LA Lakers,LAL,98,LA Lakers,LAL,Sacramento,SAC
+1027,201704070MEM,New York,NYK,88,Memphis,MEM,101,Memphis,MEM,New York,NYK
+1028,201704070PHO,Oklahoma City,OKC,99,Phoenix,PHO,120,Phoenix,PHO,Oklahoma City,OKC
+1029,201704070TOR,Miami,MIA,94,Toronto,TOR,96,Toronto,TOR,Miami,MIA
+1030,201704080BRK,Chicago,CHI,106,Brooklyn,BRK,107,Brooklyn,BRK,Chicago,CHI
+1031,201704080CHO,Boston,BOS,121,Charlotte,CHO,114,Boston,BOS,Charlotte,CHO
+1032,201704080GSW,New Orleans,NOP,101,Golden State,GSW,123,Golden State,GSW,New Orleans,NOP
+1033,201704080ORL,Indiana,IND,127,Orlando,ORL,112,Indiana,IND,Orlando,ORL
+1034,201704080PHI,Milwaukee,MIL,90,Philadelphia,PHI,82,Milwaukee,MIL,Philadelphia,PHI
+1035,201704080POR,Utah,UTA,86,Portland,POR,101,Portland,POR,Utah,UTA
+1036,201704080SAS,LA Clippers,LAC,98,San Antonio,SAS,87,LA Clippers,LAC,San Antonio,SAS
+1037,201704090ATL,Cleveland,CLE,125,Atlanta,ATL,126,Atlanta,ATL,Cleveland,CLE
+1038,201704090DEN,Oklahoma City,OKC,106,Denver,DEN,105,Oklahoma City,OKC,Denver,DEN
+1039,201704090LAL,Minnesota,MIN,109,LA Lakers,LAL,110,LA Lakers,LAL,Minnesota,MIN
+1040,201704090MEM,Detroit,DET,103,Memphis,MEM,90,Detroit,DET,Memphis,MEM
+1041,201704090NYK,Toronto,TOR,110,New York,NYK,97,Toronto,TOR,New York,NYK
+1042,201704090PHO,Dallas,DAL,111,Phoenix,PHO,124,Phoenix,PHO,Dallas,DAL
+1043,201704100BOS,Brooklyn,BRK,105,Boston,BOS,114,Boston,BOS,Brooklyn,BRK
+1044,201704100CHI,Orlando,ORL,75,Chicago,CHI,122,Chicago,CHI,Orlando,ORL
+1045,201704100DET,Washington,WAS,105,Detroit,DET,101,Washington,WAS,Detroit,DET
+1046,201704100GSW,Utah,UTA,105,Golden State,GSW,99,Utah,UTA,Golden State,GSW
+1047,201704100LAC,Houston,HOU,96,LA Clippers,LAC,125,LA Clippers,LAC,Houston,HOU
+1048,201704100MIA,Cleveland,CLE,121,Miami,MIA,124,Miami,MIA,Cleveland,CLE
+1049,201704100MIL,Charlotte,CHO,79,Milwaukee,MIL,89,Milwaukee,MIL,Charlotte,CHO
+1050,201704100PHI,Indiana,IND,120,Philadelphia,PHI,111,Indiana,IND,Philadelphia,PHI
+1051,201704110ATL,Charlotte,CHO,76,Atlanta,ATL,103,Atlanta,ATL,Charlotte,CHO
+1052,201704110DAL,Denver,DEN,109,Dallas,DAL,91,Denver,DEN,Dallas,DAL
+1053,201704110LAL,New Orleans,NOP,96,LA Lakers,LAL,108,LA Lakers,LAL,New Orleans,NOP
+1054,201704110MIN,Oklahoma City,OKC,100,Minnesota,MIN,98,Oklahoma City,OKC,Minnesota,MIN
+1055,201704120BOS,Milwaukee,MIL,94,Boston,BOS,112,Boston,BOS,Milwaukee,MIL
+1056,201704120CHI,Brooklyn,BRK,73,Chicago,CHI,112,Chicago,CHI,Brooklyn,BRK
+1057,201704120CLE,Toronto,TOR,98,Cleveland,CLE,83,Toronto,TOR,Cleveland,CLE
+1058,201704120GSW,LA Lakers,LAL,94,Golden State,GSW,109,Golden State,GSW,LA Lakers,LAL
+1059,201704120HOU,Minnesota,MIN,118,Houston,HOU,123,Houston,HOU,Minnesota,MIN
+1060,201704120IND,Atlanta,ATL,86,Indiana,IND,104,Indiana,IND,Atlanta,ATL
+1061,201704120LAC,Sacramento,SAC,95,LA Clippers,LAC,115,LA Clippers,LAC,Sacramento,SAC
+1062,201704120MEM,Dallas,DAL,100,Memphis,MEM,93,Dallas,DAL,Memphis,MEM
+1063,201704120MIA,Washington,WAS,102,Miami,MIA,110,Miami,MIA,Washington,WAS
+1064,201704120NYK,Philadelphia,PHI,113,New York,NYK,114,New York,NYK,Philadelphia,PHI
+1065,201704120OKC,Denver,DEN,111,Oklahoma City,OKC,105,Denver,DEN,Oklahoma City,OKC
+1066,201704120ORL,Detroit,DET,109,Orlando,ORL,113,Orlando,ORL,Detroit,DET
+1067,201704120POR,New Orleans,NOP,103,Portland,POR,100,New Orleans,NOP,Portland,POR
+1068,201704150CLE,Indiana,IND,108,Cleveland,CLE,109,Cleveland,CLE,Indiana,IND
+1069,201704150LAC,Utah,UTA,97,LA Clippers,LAC,95,Utah,UTA,LA Clippers,LAC
+1070,201704150SAS,Memphis,MEM,82,San Antonio,SAS,111,San Antonio,SAS,Memphis,MEM
+1071,201704160BOS,Chicago,CHI,106,Boston,BOS,102,Chicago,CHI,Boston,BOS
+1072,201704160GSW,Portland,POR,109,Golden State,GSW,121,Golden State,GSW,Portland,POR
+1073,201704160HOU,Oklahoma City,OKC,87,Houston,HOU,118,Houston,HOU,Oklahoma City,OKC
+1074,201704170CLE,Indiana,IND,111,Cleveland,CLE,117,Cleveland,CLE,Indiana,IND
+1075,201704180BOS,Chicago,CHI,111,Boston,BOS,97,Chicago,CHI,Boston,BOS
+1076,201704180LAC,Utah,UTA,91,LA Clippers,LAC,99,LA Clippers,LAC,Utah,UTA
+1077,201704190GSW,Portland,POR,81,Golden State,GSW,110,Golden State,GSW,Portland,POR
+1078,201704190HOU,Oklahoma City,OKC,111,Houston,HOU,115,Houston,HOU,Oklahoma City,OKC
+1079,201704200IND,Cleveland,CLE,119,Indiana,IND,114,Cleveland,CLE,Indiana,IND
+1080,201704200MEM,San Antonio,SAS,94,Memphis,MEM,105,Memphis,MEM,San Antonio,SAS
+1081,201704210CHI,Boston,BOS,104,Chicago,CHI,87,Boston,BOS,Chicago,CHI
+1082,201704210OKC,Houston,HOU,113,Oklahoma City,OKC,115,Oklahoma City,OKC,Houston,HOU
+1083,201704220ATL,Washington,WAS,98,Atlanta,ATL,116,Atlanta,ATL,Washington,WAS
+1084,201704220MEM,San Antonio,SAS,108,Memphis,MEM,110,Memphis,MEM,San Antonio,SAS
+1085,201704220MIL,Toronto,TOR,87,Milwaukee,MIL,76,Toronto,TOR,Milwaukee,MIL
+1086,201704230CHI,Boston,BOS,104,Chicago,CHI,95,Boston,BOS,Chicago,CHI
+1087,201704230IND,Cleveland,CLE,106,Indiana,IND,102,Cleveland,CLE,Indiana,IND
+1088,201704230OKC,Houston,HOU,113,Oklahoma City,OKC,109,Houston,HOU,Oklahoma City,OKC
+1089,201704240ATL,Washington,WAS,101,Atlanta,ATL,111,Atlanta,ATL,Washington,WAS
+1090,201704240POR,Golden State,GSW,128,Portland,POR,103,Golden State,GSW,Portland,POR
+1091,201704250HOU,Oklahoma City,OKC,99,Houston,HOU,105,Houston,HOU,Oklahoma City,OKC
+1092,201704250LAC,Utah,UTA,96,LA Clippers,LAC,92,Utah,UTA,LA Clippers,LAC
+1093,201704260BOS,Chicago,CHI,97,Boston,BOS,108,Boston,BOS,Chicago,CHI
+1094,201704270MEM,San Antonio,SAS,103,Memphis,MEM,96,San Antonio,SAS,Memphis,MEM
+1095,201704280ATL,Washington,WAS,115,Atlanta,ATL,99,Washington,WAS,Atlanta,ATL
+1096,201704280CHI,Boston,BOS,105,Chicago,CHI,83,Boston,BOS,Chicago,CHI
+1097,201704300BOS,Washington,WAS,111,Boston,BOS,123,Boston,BOS,Washington,WAS
+1098,201705010CLE,Toronto,TOR,105,Cleveland,CLE,116,Cleveland,CLE,Toronto,TOR
+1099,201705020BOS,Washington,WAS,119,Boston,BOS,129,Boston,BOS,Washington,WAS
+1100,201705030CLE,Toronto,TOR,103,Cleveland,CLE,125,Cleveland,CLE,Toronto,TOR
+1101,201705040GSW,Utah,UTA,104,Golden State,GSW,115,Golden State,GSW,Utah,UTA
+1102,201705050HOU,San Antonio,SAS,103,Houston,HOU,92,San Antonio,SAS,Houston,HOU
+1103,201705070HOU,San Antonio,SAS,104,Houston,HOU,125,Houston,HOU,San Antonio,SAS
+1104,201705070TOR,Cleveland,CLE,109,Toronto,TOR,102,Cleveland,CLE,Toronto,TOR
