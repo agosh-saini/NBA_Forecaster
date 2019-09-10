@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 game_info_df = pd.read_csv(
     'sportsreference_data/2016_17_games.csv', index_col=0)
@@ -46,3 +47,19 @@ for index, row in list(game_data_with_odds_df.iterrows()):
 game_data_with_odds_df['safe_net_profit'] = profit_arr
 
 game_data_with_odds_df.to_csv('Analysis/safe_bet_analysis.csv')
+
+# Split profits into batches of 25 matches(roughly the number of matches each week)
+batch_profits = []
+cutoff = 25
+index = 0
+while index < len(profit_arr):
+    batch = 0
+    while index < cutoff:
+        print(index, cutoff)
+        batch += profit_arr[index]
+        index += 1
+    batch_profits.append(batch)
+    if cutoff < len(profit_arr) - 25:
+        cutoff += 25
+    else:
+        break
