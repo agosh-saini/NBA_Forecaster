@@ -1,0 +1,3 @@
+-remove all the empty values from the dataset and remove league id coloumn
+-copy paste into another sheet and delete original sheet
+-replace abriviations found in this sheet with the ones found in the abrs.csv
