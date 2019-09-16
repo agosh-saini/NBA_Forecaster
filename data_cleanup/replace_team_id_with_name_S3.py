@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep 13 2019
+Created on Sep 13 2019
 
 @author: Agosh Saini (as7saini@edi.uwaterloo.ca)
 """
@@ -27,3 +27,5 @@ modified_game_data = pd.read_csv(r'modified_data/S1_nba_games_all.csv', skipinit
 team_data = pd.read_csv(r'sources/nba_teams_all.csv', skipinitialspace=True)
 
 team_id_replaced_data = replace_id_with_abrs(modified_game_data, team_data)
+
+team_id_replaced_data.to_csv(r'modified_data/S3_team_id_replaced_data.csv')
