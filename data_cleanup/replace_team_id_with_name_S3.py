@@ -18,7 +18,7 @@ def replace_id_with_abrs(df, teams):
     #setting variables
     team_ID, team_abr = teams['team_id'], teams['abbreviation']
     #replaces the team_ID with team_abr
-    for i in range(len(teams)-1):
+    for i in range(len(teams)):
         df = df.replace(team_ID[i], team_abr[i])
     return df
 
