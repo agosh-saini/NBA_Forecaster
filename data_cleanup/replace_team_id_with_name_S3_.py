@@ -28,4 +28,4 @@ team_data = pd.read_csv(r'sources/nba_teams_all.csv', skipinitialspace=True)
 
 team_id_replaced_data = replace_id_with_abrs(modified_game_data, team_data)
 
-team_id_replaced_data.to_csv(r'modified_data/S3_team_id_replaced_data.csv')
+team_id_replaced_data.to_csv(r'modified_data/S3_team_id_replaced_data.csv', index = False)
